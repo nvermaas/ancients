@@ -7,18 +7,18 @@ networks:
 
 services:
 
-  ancients:
+  sniffers:
     build:
-        context: $HOME/my_docker/ancients
+        context: $HOME/my_docker/sniffers
         dockerfile: Dockerfile
-    container_name: ancients
-    image: ancients:latest
+    container_name: sniffers
+    image: sniffers:latest
     networks:
       - homebase_network
     ports:
-      - 8014:8000
+      - 8013:8000
     expose:
-      - 8014
+      - 8013
     restart: always
     volumes:
     # this is where the app will find the sqlite3 database

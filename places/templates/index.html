@@ -2,8 +2,16 @@
 {% load static %}
 
 {% block myBlock %}
-<div class="ancient-container container-fluid">
 
-</div>
+    <h4>Ancients - {{ type }}</h4>
+        <a href="{% url 'places:sniff' 'latest' 0 %}" class="btn btn-secondary btn-sm" role="button"><i class="fas fa-search"></i> All</a>
+        <a href="{% url 'places:sniff' 'last minute' 60 %}" class="btn btn-secondary btn-sm" role="button"><i class="fas fa-search"></i> Barrows</a>
+        <a href="{% url 'places:sniff' 'last hour' 3600 %}" class="btn btn-secondary btn-sm" role="button"><i class="fas fa-search"></i> Stone Circles</a>
+        <a href="{% url 'places:sniff' 'today' 86400 %}" class="btn btn-secondary btn-sm" role="button"><i class="fas fa-search"></i> Other</a>
+        {{ markers|json_script:"markers-data" }}
+        <div id="map"></div>
+        <script src="{% static 'map.js' %}"></script>
+
+{% include 'refresh.html' %}
 
 {% endblock %}

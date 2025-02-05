@@ -12,7 +12,6 @@ create_places = """
         name TEXT NOT NULL,
         type TEXT,
         region TEXT,
-        country TEXT,
         latitude FLOAT,
         longtitude FLOAT,
         description TEXT
@@ -27,22 +26,12 @@ def create_database(sqlite_filename, records):
     conn.commit()
 
     print(f'adding {len(records)} records to database {sqlite_filename}...')
-    cursor.executemany("INSERT INTO places (name, type, region, country, latitude, longtitude, description) VALUES (?, ?, ?, ?, ?, ?, ?)", records)
+    cursor.executemany("INSERT INTO places (name, type, region, latitude, longtitude, description) VALUES (?, ?, ?, ?, ?, ?)", records)
     conn.commit()
 
     print('done')
     conn.close()
 
-def add_to_database(sqlite_filename, records):
-    conn = sqlite3.connect(sqlite_filename)  # Creates or opens a database file
-    cursor = conn.cursor()  # Create a cursor object to interact with the database
-
-    print(f'adding {len(records)} records to database {sqlite_filename}...')
-    cursor.executemany("INSERT INTO places_place (name, type, region, country, latitude, longtitude, description) VALUES (?, ?, ?, ?, ?, ?, ?)", records)
-    conn.commit()
-
-    print('done')
-    conn.close()
 
 def read_from_description(separator,description):
     """
@@ -78,7 +67,7 @@ def read_from_description(separator,description):
     except:
         return ""
 
-def convert_kml(kml_filename,country):
+def convert_kml(kml_filename):
     """
     convert a placemark to a json record
 
@@ -129,7 +118,7 @@ def convert_kml(kml_filename,country):
             type = read_from_description('<b>Type:</b>',description)
             region = read_from_description('<b>County/Region:</b>',description)
 
-            rec = (name, type, region, country, latitude, longtitude, description)
+            rec = (name, type, region, latitude, longtitude, description)
             records.append(rec)
 
         print(f'read {len(records)} records')
@@ -137,34 +126,29 @@ def convert_kml(kml_filename,country):
 
 
 if __name__ == "__main__":
-    header = "megp_kml_convert - version 19  Feb 2025"
+    header = "megp_kml_convert - version 1  Fan 2025"
     print(header)
     print("--------------------------------")
 
-    if len(sys.argv) != 5:
-        print("Usage: python megp_kml_convert.py <kml_file> <sqlite_file> <country> <mode>\n")
+    if len(sys.argv) != 4:
+        print("Usage: python megp_kml_convert.py <kml_file> <sqlite_file> <mode>\n")
         print("examples:")
-        print("- python megp_kml_convert.py MegP_Netherlands.kml ancients.sqlite netherlands add")
-        print("- python megp_kml_convert.py xxxMegP_Earth.kml ancients.sqlite england new")
+        print("- python megp_kml_convert.py MegP_Netherlands.kml ancients.sqlite add")
+        print("- python megp_kml_convert.py megalithic_earth.kml ancients.sqlite clear")
 
         sys.exit(1)
 
-    print(f"input = {sys.argv[1]}, output = {sys.argv[2]}, country = {sys.argv[3]}, mode = {sys.argv[4]}")
+    print(f"input = {sys.argv[1]}, output = {sys.argv[2]}, mode = {sys.argv[3]}")
     # Retrieve parameters from command-line arguments
 
     input  = sys.argv[1]
     output = sys.argv[2]
-    country = sys.argv[3]
-    mode = sys.argv[4]
+    mode = sys.argv[3]
 
     # convert the kml to a dict of records
-    records = convert_kml(input,country)
+    records = convert_kml(input)
 
     # creat and fill database
-    if mode == 'new':
-        create_database(output,records)
-
-    if mode == 'add':
-        add_to_database(output,records)
+    create_database(output,records)
 
     #convert(input, output, mode)

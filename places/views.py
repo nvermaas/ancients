@@ -1,131 +1,195 @@
 from .models import Place
 
-from django.shortcuts import render, redirect
-from django.views.generic import ListView, TemplateView
+from django.shortcuts import render, redirect, reverse
+from django.views.generic.base import (
+    TemplateView,
+)
 from places.services import algorithms
-from django.contrib.auth.decorators import login_required
 
-def fill_context_data(request, context, add_features=False):
-    country, place_type, search = algorithms.get_current_filter_values(request)
-    places = algorithms.select_records(country, place_type, search)
-    combined_types = list(algorithms.COMBINATIONS.keys())
+def redirect_with_params(view_name, params):
+    return redirect(reverse(view_name) + params)
 
-    context['places'] = places
+class IndexView(TemplateView):
+    template_name = "index.html"
 
-    # fill the type filter dropdown button (dropdown.html)
-    countries = Place.objects.values_list('country', flat=True).distinct()
-    context['countries'] = countries
-    context['country'] = country
+    def get_context_data(self, **kwargs):
 
-    if country == 'All':
-        types = Place.objects.values_list('type', flat=True).distinct()
-    else:
-        # only load the types that are valid for this country
-        types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
+        context = (
+            super().get_context_data(
+                **kwargs
+            )
+        )
 
-    if len(types) == 1:
-        # only 1 type, so select it
-        place_type = str(types[0])
-        request.session['place_type'] = place_type
+        # get the period-to-check from the session
+        try:
+            type = self.request.session['type']
+        except:
+            self.request.session['type'] = "all"
 
-    context['types'] = types
-    context['place_type'] = place_type
-    context['combined_types'] = combined_types
+        # geolocate the ips
+        places = Place.objects.all()
 
-    # add features for the map
-    if add_features:
+        # convert them to leaflet features
         features = algorithms.create_features(places)
-
         if not features:
             features = []
 
         context["markers"] = {
-            "type": "FeatureCollection",
-            "crs": {
-                "type": "name",
-                "properties": {
-                    "name": "EPSG:4326"
-                }
-            },
-            "features": features
+          "type": "FeatureCollection",
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          },
+          "features": features
         }
 
-    return context
+        context["type"] = self.request.session['type']
 
-class ListView(ListView):
-    model = Place
-    template_name = "list.html"
-
-    def get_queryset(self):
-        country, place_type, search = algorithms.get_current_filter_values(self.request)
-        return algorithms.select_records(country,place_type,search)
-
-    def get_context_data(self, **kwargs):
-        """
-        add data to the 'context' that can be read by the html templates
-        """
-        context = (
-            super().get_context_data(
-                **kwargs
-            )
-        )
-
-        context = fill_context_data(self.request,context)
-        #context["coordinates"] = { "latitude": 52, "longtitude": 6}
         return context
 
-class MapView(ListView):
-    model = Place
+class MarkersMapView(TemplateView):
     template_name = "map.html"
 
-    def get_queryset(self):
-        country, place_type, search = algorithms.get_current_filter_values(self.request)
-        return algorithms.select_records(country,place_type,search)
-
     def get_context_data(self, **kwargs):
-        """
-        add data to the 'context' that can be read by the html templates
-        """
+
         context = (
             super().get_context_data(
                 **kwargs
             )
         )
 
-        context = fill_context_data(self.request, context, add_features=True)
-        lon = self.request.GET.get("lon")
-        lat = self.request.GET.get("lat")
-        if lon and lat:
-            context["coordinates"] = { "latitude": lat, "longtitude": lon}
+        # retrieve the IP from the url parameters
+        ip = self.kwargs['ip']
 
+        # geolocate the ip
+        location = algorithms.geocode(ip)
+
+        coordinates = []
+        coordinates.append(location['latitude'])
+        coordinates.append(location['longtitude'])
+
+        context['address'] = location['address']
+        context['country'] = location['country']
+        context['attacker_ip']= ip
+
+        context["markers"] = {
+          "type": "FeatureCollection",
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          },
+          "features": [
+            {
+              "id": 1,
+              "type": "Feature",
+              "properties": {
+                "name": "Attacker",
+                "pk": "1"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": coordinates
+              }
+            }
+          ]
+        }
         return context
 
-def welcome(request):
-    """
-    welcome page
-    """
-    return render(request,'welcome.html')
 
+class LatestHackerView(TemplateView):
+    template_name = "latest_map.html"
 
-@login_required
-def reload_data(request):
-    """
-    recreate the database by reloading all the kml files from the data directory
-    """
-    algorithms.reload_data()
-    return redirect('/ancients')
+    def get_context_data(self, **kwargs):
 
-def set_view(request, place_id):
-    """
-    zoom to the place indicated with place_id, this function is used from the 'map' buttons on the list page
-    """
-    place = Place.objects.get(id=place_id)
-    return redirect(f'/ancients?lon={place.longtitude}&lat={place.latitude}')
+        context = (
+            super().get_context_data(
+                **kwargs
+            )
+        )
 
-def set_google_maps(request, place_id):
-    """
-    zoom to the place indicated with place_id, this function is used from the 'map' buttons on the list page
-    """
-    place = Place.objects.get(id=place_id)
-    url = f"https://www.google.com/maps/place//@{place.latitude},{place.longtitude},20z"
-    return redirect(url)
+        # geolocate the ip
+        timestamp, ip = algorithms.get_latest_ip()
+        location = algorithms.geocode(ip)
+
+        coordinates = []
+        coordinates.append(location['latitude'])
+        coordinates.append(location['longtitude'])
+
+        context['address'] = location['address']
+        context['country'] = location['country']
+        context['attacker_ip']= ip
+        context['timestamp'] = timestamp
+
+        context["markers"] = {
+          "type": "FeatureCollection",
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          },
+          "features": [
+            {
+              "id": 1,
+              "type": "Feature",
+              "properties": {
+                "name": ip,
+                "pk": "1"
+              },
+              "geometry": {
+                "type": "Point",
+                "coordinates": coordinates
+              }
+            }
+          ]
+        }
+        return context
+
+class LatestSeriesHackerView(TemplateView):
+    template_name = "latest_series_map.html"
+
+    def get_context_data(self, **kwargs):
+
+        context = (
+            super().get_context_data(
+                **kwargs
+            )
+        )
+
+        # geolocate the ips
+        ips = algorithms.get_latest_ips(60)
+
+        # convert them to leaflet features
+        features = algorithms.create_features(ips)
+        if not features:
+            features = []
+
+        context["markers"] = {
+          "type": "FeatureCollection",
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          },
+          "features": features
+        }
+        return context
+
+def SniffLastPeriod(request, period, seconds):
+
+    seconds = int(seconds)
+    # write the requested period to the session
+    request.session['period-to-check'] = seconds
+    request.session['period'] = period
+
+    if seconds == 0:
+        return redirect('/sniffers/latest')
+    else:
+        return redirect('/sniffers')
+
+    #return redirect_with_params('index', period)
