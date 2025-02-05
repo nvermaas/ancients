@@ -32,6 +32,16 @@ def create_database(sqlite_filename, records):
     print('done')
     conn.close()
 
+def add_to_database(sqlite_filename, records):
+    conn = sqlite3.connect(sqlite_filename)  # Creates or opens a database file
+    cursor = conn.cursor()  # Create a cursor object to interact with the database
+
+    print(f'adding {len(records)} records to database {sqlite_filename}...')
+    cursor.executemany("INSERT INTO places_place (name, type, region, latitude, longtitude, description) VALUES (?, ?, ?, ?, ?, ?)", records)
+    conn.commit()
+
+    print('done')
+    conn.close()
 
 def read_from_description(separator,description):
     """
@@ -149,6 +159,10 @@ if __name__ == "__main__":
     records = convert_kml(input)
 
     # creat and fill database
-    create_database(output,records)
+    if mode == 'new':
+        create_database(output,records)
+
+    if mode == 'add':
+        add_to_database(output,records)
 
     #convert(input, output, mode)

@@ -7,14 +7,14 @@ WORKDIR /src
 COPY . /src/
 
 RUN pip install -r requirements.txt
-RUN exec python manage.py collectstatic --settings=sniffers.settings.docker --noinput
-CMD exec gunicorn sniffers.wsgi:application --bind 0.0.0.0:8000 --workers 3
+RUN exec python manage.py collectstatic --settings=ancients.settings.docker --noinput
+CMD exec gunicorn ancients.wsgi:application --bind 0.0.0.0:8000 --workers 3
 
 # build the image like this:
-# docker build -t sniffers:latest .
+# docker build -t ancients:latest .
 
 # run the container from 'shared', like this:
-# docker run -d --name sniffers --mount type=bind,source=$HOME/shared,target=/shared -p 8006:8000 --restart always sniffers:latest
+# docker run -d --name ancients --mount type=bind,source=$HOME/shared,target=/shared -p 8007:8000 --restart always ancients:latest
 
 # log into the container
-# docker exec -it sniffers bash
+# docker exec -it ancients bash
