@@ -1,0 +1,4 @@
+Django==4.2.7
+gunicorn==19.9.0
+whitenoise==5.0.1
+geocoder==1.38.1

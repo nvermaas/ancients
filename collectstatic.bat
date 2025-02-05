@@ -1,0 +1,1 @@
+python manage.py collectstatic --settings=ancients.settings.dev

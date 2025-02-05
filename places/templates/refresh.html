@@ -1,0 +1,16 @@
+<script type="text/javascript">
+    (function(seconds) {
+        var refresh,
+            intvrefresh = function() {
+                clearInterval(refresh);
+                refresh = setTimeout(function() {
+                   //location.href = location.href;
+                   location.reload();
+                }, seconds * 1000);
+            };
+
+        $(document).on('keypress click', function() { intvrefresh() });
+        intvrefresh();
+
+    }(10));
+</script>

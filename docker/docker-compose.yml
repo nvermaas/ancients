@@ -1,0 +1,27 @@
+version: '3.4'
+
+networks:
+  homebase_network:
+  default:
+    driver: bridge
+
+services:
+
+  sniffers:
+    build:
+        context: $HOME/my_docker/sniffers
+        dockerfile: Dockerfile
+    container_name: sniffers
+    image: sniffers:latest
+    networks:
+      - homebase_network
+    ports:
+      - 8013:8000
+    expose:
+      - 8013
+    restart: always
+    volumes:
+    # this is where the app will find the sqlite3 database
+      - $HOME/shared:/shared
+      - /var/log:/data
+

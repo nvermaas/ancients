@@ -1,0 +1,1 @@
+python manage.py makemigrations places --settings=ancients.settings.dev

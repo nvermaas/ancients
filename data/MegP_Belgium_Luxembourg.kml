@@ -1,0 +1,2270 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><kml xmlns="http://earth.google.com/kml/2.0">
+ <Document>
+ <description>Megalithic Portal data for Google Earth: Belgium Luxembourg In-depth information on megaliths, prehistoric and ancient sites of all sorts can be found at The Megalithic Portal and Megalith Map: http://www.megalithic.co.uk . Follow the links for more details of each location. Data is copyright and not to be re-used outside of Google Earth without permission (but you are welcome to ask). This data is provided without any warranty or guarantee of fitness for purpose, and is for personal use only.</description>
+  <name>Megalithic Portal: Belgium Luxembourg</name>
+    <Style id="1_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>               
+    <Folder><name><![CDATA[Burial Chamber or Dolmen]]></name><open>0</open>
+<Placemark>   <name>Dolmen de Gomery</name>   <description><![CDATA[
+        <b>Type:</b> Burial Chamber or Dolmen <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 49.5698 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.5916<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/sbs_DSCF8180.jpg" align="right" valign="top"></a>
+<br />
+                    Burial Chamber (Dolmen) in Province of Luxembourg, Belgium.. Generally presented as dolmen, but sometimes contested.<br />
+Lots of local writings about it.  It was first called Morceau d'étoile (fra...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37917" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#6_r</styleUrl>   <Point>     <coordinates>5.5916,49.5698,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Oppagne Dolmen</name>   <description><![CDATA[
+        <b>Type:</b> Burial Chamber or Dolmen <b>County/Region:</b> Luxembourg <b>Alt Name:</b> Wéris II <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.32165 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.51303<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/Belgium/thumb/madcat_ard022.jpg" align="right" valign="top"></a>
+<br />
+                    The Oppagne Dolmen was first discovered in 1888 when it was still covered by a tumulus. The chamber measures 5.40 Meters in length by 1.80 width an is  0.60 Meters tall. . The entrance slab is carved ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=12840" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#6_r</styleUrl>   <Point>     <coordinates>5.51303,50.32165,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Wéris Dolmen</name>   <description><![CDATA[
+        <b>Type:</b> Burial Chamber or Dolmen <b>County/Region:</b> Luxembourg <b>Alt Name:</b> Wéris I; Allee Couverte Norde; Dolmen de Nord <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.3334 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.52267<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/Belgium/thumb/madcat_ardennes014.jpg" align="right" valign="top"></a>
+<br />
+                    The Weris dolmen features a rectangular chamber 6 Meters long by 1.70 Meters wide and 1,50 Metes tall with a short corridor in front of it. The chamber is edged by four pillars. The Dolmen was once co...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=12839" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#6_r</styleUrl>   <Point>     <coordinates>5.52267,50.3334,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Holy Well or Sacred Spring]]></name><open>0</open>
+<Placemark>   <name>Source Miraculeuse de Saint Thibaut</name>   <description><![CDATA[
+        <b>Type:</b> Holy Well or Sacred Spring <b>County/Region:</b> Luxembourg <b>Alt Name:</b> Bron van Sint-Thibaut, Spring of Saint-Thibaut <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.21109 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.51617<br />
+                    Holy Well or Sacred Spring in Luxembourg. Holy Well with water for miracle cures, dedicated to French 11th Century Saint Thibaut or Theobald of Provins. <br />
+...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=58874" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#45_g</styleUrl>   <Point>     <coordinates>5.51617,50.21109,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Marker Stone]]></name><open>0</open>
+<Placemark>   <name>Pierre Saint-Hubert</name>   <description><![CDATA[
+        <b>Type:</b> Marker Stone <b>County/Region:</b> Luxembourg <b>Alt Name:</b> Menhir de Waha <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.2166 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.3376<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/DSCF3797.r1024.r.JPG" align="right" valign="top"></a>
+<br />
+                    Rock outcrop used as marker stone in the mid-16th century, at the border between the possessions of Emperor Charles V (Charles-Quint, 1515-1555) and the Abbey of Saint-Hubert.  . One side of the stone...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37058" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#67_r</styleUrl>   <Point>     <coordinates>5.3376,50.2166,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Modern Stone Circle etc]]></name><open>0</open>
+<Placemark>   <name>Bois des Lus</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <b>County/Region:</b> Luxembourg <b>Alt Name:</b> Bwès des Leus,  Rue de l'Himage <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.19439 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.31124<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/Belgium/thumb/DSCF3813.r9.cr.JPG" align="right" valign="top"></a>
+<br />
+                    The big stones now adorning the new urban development (1970 or so) are meant to symbolize and recall two megaliths which ended up in a lime klint around 1870.  The names of the streets, Bwès des Leus...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37233" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>5.31124,50.19439,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Monument Europalia Portugal</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.1506 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.693<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/adm_133146008.jpg" align="right" valign="top"></a>
+<br />
+                    Modern Monoliths in Province of Luxembourg, Belgium.. Monument in pink marble from Vila Viçosa, Portugal, created by Charters de Almeida (born 1935) and presented to the City of Houffalize on the occ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45476" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>5.693,50.1506,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Museum]]></name><open>0</open>
+<Placemark>   <name>Cercle Historique</name>   <description><![CDATA[
+        <b>Type:</b> Museum <b>County/Region:</b> Luxembourg <b>Alt Name:</b> Maison des Mégalithes - Wéris <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.3265 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.5321<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/20231106_103136.jpg" align="right" valign="top"></a>
+<br />
+                    The Maison des Mégalithes is the "centre of gravity" of the megalithic field of Wéris.  A total of 27 megaliths have been listed so far. The first ones were discovered / unearthed / identified by ch...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=35993" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#38_r</styleUrl>   <Point>     <coordinates>5.5321,50.3265,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Natural Stone / Erratic / Other Natural Feature]]></name><open>0</open>
+<Placemark>   <name>Pierre du Carrefour des Sorcières</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.32657 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.53177<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/yhg_DSCF8303.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone in the Province of Luxembourg, Belgium. During earthmoving works along the Rue des Menhirs, near the Carrefour des Sorcières in Wéris, a block of pudding-stone has been discovered in t...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38000" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>5.53177,50.32657,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Polissoir]]></name><open>0</open>
+<Placemark>   <name>Polissoir de Sart</name>   <description><![CDATA[
+        <b>Type:</b> Polissoir <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 49.8183 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.4512<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/ume_DSCF8227.jpg" align="right" valign="top"></a>
+<br />
+                    Polishing Stone in Province of Luxembourg, Belgium.. A highly resilient block of quartzite showing deep grooves from polishing activities.<br />
+<br />
+Information is scarce.  The block is now in fr...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37900" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#66_r</styleUrl>   <Point>     <coordinates>5.4512,49.8183,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Polissoirs de Saint-Mard</name>   <description><![CDATA[
+        <b>Type:</b> Polissoir <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 49.546 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.5526<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/bvx_DSCF8162.jpg" align="right" valign="top"></a>
+<br />
+                    Polishing Stones in the province of Luxembourg, Belgium which show deep marks of intense use.. The Polissoirs de Saint-Mard lay side by side along a small stream, the Ruisseau des Brûzelles (other sp...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37911" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#66_r</styleUrl>   <Point>     <coordinates>5.5526,49.546,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Rock Outcrop]]></name><open>0</open>
+<Placemark>   <name>Chêne-al-Pierre</name>   <description><![CDATA[
+        <b>Type:</b> Rock Outcrop <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>3</b> Condition: <b>Destroyed</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.33472 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.67955<br />
+                    Rock Outcrop in Luxembourg. The name Chêne-al-Pierre means "Oak at/near the Stone".  Nowadays, there is neither oak nor any stone left.<br />
+<br />
+I read that the map issued by Fricx in 1710 (non...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37133" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#37_y</styleUrl>   <Point>     <coordinates>5.67955,50.33472,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Lit du Diable</name>   <description><![CDATA[
+        <b>Type:</b> Rock Outcrop <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.33503 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.5432<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/DSCF3733.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    Rock Outcrop in Belgium. The Lit du Diable (Devil's Bed) is one of the three rock outcrops which must be seen by any (serious...) visitor to Wéris.<br />
+Coordinates measured on the spot.<br />
+Not...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37059" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#37_r</styleUrl>   <Point>     <coordinates>5.5432,50.33503,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pas-Bayard</name>   <description><![CDATA[
+        <b>Type:</b> Rock Outcrop <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.31689 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.52415<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/DSCF3759.r1024.cr.JPG" align="right" valign="top"></a>
+<br />
+                    Rock Outcrop in Luxembourg. Pas-Bayard is a rock outcrop, one of the legendary stones in the area of Wéris – the others being the Pierre Haina and the Pierre du Diable.<br />
+<br />
+The Pas-Bayar...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37034" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#37_r</styleUrl>   <Point>     <coordinates>5.52415,50.31689,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pierre Haina</name>   <description><![CDATA[
+        <b>Type:</b> Rock Outcrop <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.33313 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.54318<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/Belgium/thumb/DSCF3725.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    An outcrop with a long history.  Legends abound about this stone. The famous Carte de Ferraris, which was compiled between 1771 and 1778, already figures it as a landmark. . Note : none of the other m...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37042" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#37_r</styleUrl>   <Point>     <coordinates>5.54318,50.33313,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Standing Stone (Menhir)]]></name><open>0</open>
+<Placemark>   <name>Menhir Danthine</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stone (Menhir) <b>County/Region:</b> Luxembourg <b>Alt Name:</b> Wéris Menhir <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>2</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.324529 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.515388<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/Belgium/thumb/madcat_ardennes018.jpg" align="right" valign="top"></a>
+<br />
+                    Menhir Danthine has been repositioned beside the road Route d'Erezé. . ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=11855" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#21_r</styleUrl>   <Point>     <coordinates>5.515388,50.324529,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Menhir de Heyd</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stone (Menhir) <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>3</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.36306 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.54734<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/DSCF3714.r1000.cr.JPG" align="right" valign="top"></a>
+<br />
+                    Standing Stone (Menhir) in Luxembourg. The Menhir de Heyd is now re-erected along a field road, near the place of its discovery.<br />
+The menhir is mentioned in writing for the first time in 1947 by...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37033" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#21_r</styleUrl>   <Point>     <coordinates>5.54734,50.36306,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Menhir de Lahérie</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stone (Menhir) <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 49.84054 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.44077<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/gsn_DSCF8188.jpg" align="right" valign="top"></a>
+<br />
+                    Standing Stone in Province of Luxembourg, Belgium.. Remarkably white quartzite stone, found in the region.<br />
+The regional newspapers gave plenty of information about it when it was decided in 197...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37935" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#21_r</styleUrl>   <Point>     <coordinates>5.44077,49.84054,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Menhir de Morville</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stone (Menhir) <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.33921 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.52804<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/DSCF3081.r10.JPG" align="right" valign="top"></a>
+<br />
+                    Only the tip of this menhir has come down to us; the rest seems to be lost. Like all the other megaliths of Wéris and around, it had been buried in the past : the Middle Ages and the 17th century are...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37066" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#21_r</styleUrl>   <Point>     <coordinates>5.52804,50.33921,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Menhir de Renaumont</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stone (Menhir) <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 49.9267 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.4484<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/DSCF8005.r8.JPG" align="right" valign="top"></a>
+<br />
+                    A widely overlooked standing stone / menhir in the Province of Luxembourg, Belgium. As far as can be traced, this stone originally laid near a spring, on the edge of a pool, about 1000 m to the North....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37611" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#21_r</styleUrl>   <Point>     <coordinates>5.4484,49.9267,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Menhirs du Champ de la Longue Pierre</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stone (Menhir) <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.33323 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.522445<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/eew_DSCF8293.jpg" align="right" valign="top"></a>
+<br />
+                    Standing Stones in the Province of Luxembourg, Belgium. Two pudding-stones (the two largest ones) found in 1983 in the Champ de la Longue Pierre ("Long Stone"), and moved in front of the Dolmen Wéris...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37113" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#21_r</styleUrl>   <Point>     <coordinates>5.522445,50.33323,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Standing Stones]]></name><open>0</open>
+<Placemark>   <name>Menhirs d'Oppagne</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stones <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.3174 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.50876<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/DSCF9086.r8.JPG" align="right" valign="top"></a>
+<br />
+                    Three menhirs found lying side by side at the end of the 19th century ; obviously dragged from elsewhere, their exact original location cannot be ascertained.. Two (on the left and on the right)  were...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=35966" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#22_r</styleUrl>   <Point>     <coordinates>5.50876,50.3174,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Oppagne Menhirs</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stones <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.32158 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.5133<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/20231106_114326.jpg" align="right" valign="top"></a>
+<br />
+                    Five menhirs found in the fields nearby were re-erected beside the Dolmen d'Oppagne (Weris II) . ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=12843" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#22_r</styleUrl>   <Point>     <coordinates>5.5133,50.32158,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Stone Circle]]></name><open>0</open>
+<Placemark>   <name>Forrières</name>   <description><![CDATA[
+        <b>Type:</b> Stone Circle <b>County/Region:</b> Luxembourg <b>Alt Name:</b> Pierres du Diable <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.1304 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.2671<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/luxembourg/thumb/DSCF5016.r9.JPG" align="right" valign="top"></a>
+<br />
+                    A ruined Stones Circle, formerly composed of 6 triliths in the Province of Luxembourg, Belgium. . In 1849, J.B. Geubel (archaeologist, but principally judge to nearby Marche-en-Famenne) described the ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37338" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#23_r</styleUrl>   <Point>     <coordinates>5.2671,50.1304,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Stone Row / Alignment]]></name><open>0</open>
+<Placemark>   <name>Alignement de Danthine</name>   <description><![CDATA[
+        <b>Type:</b> Stone Row / Alignment <b>County/Region:</b> Luxembourg <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 50.32597 &nbsp;&nbsp;&nbsp;<b>Long</b>: 5.51696<img src="http://www.megalithic.co.uk/a558/a312/gallery/benelux/Belgium/thumb/230914-6502c2ee9945e-.jpg" align="right" valign="top"></a>
+<br />
+                    Seven additional menhirs have been discovered during excavations in the fields of Wéris (Durbuy), in the Belgian province of Luxembourg. The Walloon heritage agency has cleaned them up and re-re-erec...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=59511" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#25_r</styleUrl>   <Point>     <coordinates>5.51696,50.32597,0</coordinates>   </Point>  </Placemark></Folder></Document>
+</kml>
