@@ -2,32 +2,18 @@
 {% load static %}
 
 {% block myBlock %}
-    <div class="container-fluid">
-    {% include 'dropdown_filters_list.html' %}
 
-    <div class="row">
+    <h4>Ancients</h4>
+    <hr>
+    {% for place in object_list %}
+        <h5>{{ place.name }} - {{ place.region }} - {{ place.type }} </h5>
 
-    {% for place in places %}
-        <div class="col-sm-6 col-lg-6">
-            <div class="card" style="width: 90%;">
-                <hr>
-                <div class="card-body">
-                    <h4 class="card-title">
-                        {{ place.name }} - {{ place.region }} - {{ place.type }}
-                    </h4>
-                    <p class="card-text">
-                        {{ place.description|safe }}
-                    </p>
-                    <a href="{% url 'places:set-view' place.pk %}" class="btn btn-primary btn-md" role="button"><i class="fas fa-globe"></i> Map</a>
-                    <a href="{% url 'places:set-google-maps' place.pk %}" target="_blank" class="btn btn-primary btn-md" role="button"><i class="fas fa-globe"></i> Google Maps</a>
-                </div>
-            </div>
-        </div>
+        {{ place.description|safe }}
 
+        <hr>
     {% empty %}
         <li>No places available.</li>
     {% endfor %}
 
-    </div>
-    </div>
+
 {% endblock %}

@@ -1,4 +1,4 @@
-from sniffers.settings.base import *
+from ancients.settings.base import *
 DEBUG = True
 ALLOWED_HOSTS = ['*']
 

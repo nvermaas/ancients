@@ -1,16 +1,23 @@
 from .models import Place
 
+
 from django.shortcuts import render, redirect, reverse
-from django.views.generic.base import (
-    TemplateView,
-)
+from django.views.generic import ListView, TemplateView
+
 from places.services import algorithms
 
 def redirect_with_params(view_name, params):
     return redirect(reverse(view_name) + params)
 
+class ListView(ListView):
+    model = Place
+    queryset = Place.objects.all()
+    template_name = "list.html"
+
 class IndexView(TemplateView):
+    model = Place
     template_name = "index.html"
+    queryset = Place.objects.all()
 
     def get_context_data(self, **kwargs):
 
