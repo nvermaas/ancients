@@ -14,6 +14,37 @@ class ListView(ListView):
     queryset = Place.objects.all()
     template_name = "list.html"
 
+class MapView(ListView):
+    model = Place
+    queryset = Place.objects.all()
+    template_name = "list.html"
+
+    def get_context_data(self, **kwargs):
+
+        context = (
+            super().get_context_data(
+                **kwargs
+            )
+        )
+
+        # convert them to leaflet features
+        features = algorithms.create_features()
+        if not features:
+            features = []
+
+        context["markers"] = {
+          "type": "FeatureCollection",
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          },
+          "features": features
+        }
+
+        return context
+
 class IndexView(TemplateView):
     model = Place
     template_name = "index.html"
@@ -33,11 +64,11 @@ class IndexView(TemplateView):
         except:
             self.request.session['type'] = "all"
 
-        # geolocate the ips
-        places = Place.objects.all()
+
+       # places = Place.objects.all()
 
         # convert them to leaflet features
-        features = algorithms.create_features(places)
+        features = algorithms.create_features()
         if not features:
             features = []
 

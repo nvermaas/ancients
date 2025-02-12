@@ -6,6 +6,7 @@ app_name = "places"
 
 urlpatterns = [
     path("list", views.ListView.as_view()),
+    path("map", views.MapView.as_view()),
     path("", views.IndexView.as_view()),
     path("map/<ip>", views.MarkersMapView.as_view()),
     path("latest", views.LatestHackerView.as_view()),

@@ -1,16 +1,17 @@
 from django.conf import settings
 from ..models import Place
 
-def create_features(places):
+def create_features():
 
     features = []
+    places = Place.objects.all()
 
     for place in places:
         try:
 
             coordinates = []
-            coordinates.append(place.latitude)
             coordinates.append(place.longtitude)
+            coordinates.append(place.latitude)
 
             feature = {}
             feature['id'] = place.id
@@ -20,12 +21,8 @@ def create_features(places):
             properties['name'] = place.name
             properties['pk'] = place.id
 
-            if location['new'] == True:
-                properties['color'] = 'red'
-                properties['radius'] = 8
-            else:
-                properties['color'] = 'green'
-                properties['radius'] = 4
+            properties['color'] = 'green'
+            properties['radius'] = 4
 
             feature['properties'] = properties
 
