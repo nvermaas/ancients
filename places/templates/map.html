@@ -1,33 +1,10 @@
+{% extends 'base.html' %}
 {% load static %}
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Ancients Map</title>
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{% static 'map.css' %}"
-    />
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="https://unpkg.com/leaflet/dist/leaflet.css"
-      crossorigin=""
-    />
-    <script
-      src="https://unpkg.com/leaflet/dist/leaflet.js"
-      crossorigin=""
-    ></script>
-  </head>
-  <body>
-    <h3>Place {{ type }}</h3>
-    {{ markers|json_script:"markers-data" }}
-    <div id="map"></div>
-    <script src="{% static 'map.js' %}"></script>
-  </body>
-<p class="footer"> version 26 Nov 2023</p>
-</html>
+
+{% block myBlock %}
+
+        {{ markers|json_script:"markers-data" }}
+        <div id="map"></div>
+        <script src="{% static 'map.js' %}"></script>
+
+{% endblock %}

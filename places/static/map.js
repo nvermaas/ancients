@@ -22,7 +22,7 @@ let feature = L.geoJSON(markers)
     return layer.feature.properties.name;
   }).addTo(map);
 
-
+/*
 L.geoJSON(markers, {
     pointToLayer: function (feature, latlng) {
         return new L.circleMarker(latlng, {
@@ -34,12 +34,10 @@ L.geoJSON(markers, {
         });
     },
 }).addTo(map);
+*/
 
 
 
-map.fitBounds(feature.getBounds(), {
-  padding: [100, 100],
-});
 
 // Fit the map to the markers' bounds
 const bounds = feature.getBounds();

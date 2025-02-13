@@ -8,42 +8,6 @@ from places.services import algorithms
 def redirect_with_params(view_name, params):
     return redirect(reverse(view_name) + params)
 
-class ListView(ListView):
-    model = Place
-    queryset = Place.objects.all()
-    template_name = "list.html"
-
-class MapView(ListView):
-    model = Place
-    queryset = Place.objects.all()
-    template_name = "index.html"
-
-    def get_context_data(self, **kwargs):
-
-        context = (
-            super().get_context_data(
-                **kwargs
-            )
-        )
-
-        # convert them to leaflet features
-        features = algorithms.create_features()
-        if not features:
-            features = []
-
-        context["markers"] = {
-          "type": "FeatureCollection",
-          "crs": {
-            "type": "name",
-            "properties": {
-              "name": "EPSG:4326"
-            }
-          },
-          "features": features
-        }
-
-        return context
-
 class IndexView(TemplateView):
     model = Place
     template_name = "index.html"
@@ -83,7 +47,14 @@ class IndexView(TemplateView):
 
         return context
 
-class MarkersMapView(TemplateView):
+class ListView(ListView):
+    model = Place
+    queryset = Place.objects.all()
+    template_name = "list.html"
+
+class MapView(ListView):
+    model = Place
+    queryset = Place.objects.all()
     template_name = "map.html"
 
     def get_context_data(self, **kwargs):
@@ -94,19 +65,10 @@ class MarkersMapView(TemplateView):
             )
         )
 
-        # retrieve the IP from the url parameters
-        ip = self.kwargs['ip']
-
-        # geolocate the ip
-        location = algorithms.geocode(ip)
-
-        coordinates = []
-        coordinates.append(location['latitude'])
-        coordinates.append(location['longtitude'])
-
-        context['address'] = location['address']
-        context['country'] = location['country']
-        context['attacker_ip']= ip
+        # convert them to leaflet features
+        features = algorithms.create_features()
+        if not features:
+            features = []
 
         context["markers"] = {
           "type": "FeatureCollection",
@@ -116,20 +78,10 @@ class MarkersMapView(TemplateView):
               "name": "EPSG:4326"
             }
           },
-          "features": [
-            {
-              "id": 1,
-              "type": "Feature",
-              "properties": {
-                "name": "Attacker",
-                "pk": "1"
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": coordinates
-              }
-            }
-          ]
+          "features": features
         }
+
         return context
+
+
 
