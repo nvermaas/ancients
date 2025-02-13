@@ -2,12 +2,8 @@
 {% load static %}
 
 {% block myBlock %}
+<div class="ancient-container container-fluid">
 
-    <h4>Ancients</h4>
-
-        {{ markers|json_script:"markers-data" }}
-        <div id="map"></div>
-        <script src="{% static 'map.js' %}"></script>
-
+</div>
 
 {% endblock %}

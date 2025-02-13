@@ -18,11 +18,11 @@ def create_features():
             feature['type'] = 'Feature'
 
             properties = {}
-            properties['name'] = f'<H5>{place.name}</H5><hr>{place.description}'
+            properties['name'] = f'<H3>{place.name}</H3><hr><h5>{place.description}</h5>'
             properties['pk'] = place.id
 
-            #properties['color'] = 'green'
-            #properties['radius'] = 4
+            properties['color'] = 'green'
+            properties['radius'] = 4
 
             feature['properties'] = properties
 
