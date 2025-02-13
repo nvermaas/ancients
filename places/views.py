@@ -1,6 +1,5 @@
 from .models import Place
 
-
 from django.shortcuts import render, redirect, reverse
 from django.views.generic import ListView, TemplateView
 
@@ -13,6 +12,37 @@ class ListView(ListView):
     model = Place
     queryset = Place.objects.all()
     template_name = "list.html"
+
+class MapView(ListView):
+    model = Place
+    queryset = Place.objects.all()
+    template_name = "index.html"
+
+    def get_context_data(self, **kwargs):
+
+        context = (
+            super().get_context_data(
+                **kwargs
+            )
+        )
+
+        # convert them to leaflet features
+        features = algorithms.create_features()
+        if not features:
+            features = []
+
+        context["markers"] = {
+          "type": "FeatureCollection",
+          "crs": {
+            "type": "name",
+            "properties": {
+              "name": "EPSG:4326"
+            }
+          },
+          "features": features
+        }
+
+        return context
 
 class IndexView(TemplateView):
     model = Place
@@ -33,11 +63,8 @@ class IndexView(TemplateView):
         except:
             self.request.session['type'] = "all"
 
-        # geolocate the ips
-        places = Place.objects.all()
-
         # convert them to leaflet features
-        features = algorithms.create_features(places)
+        features = algorithms.create_features()
         if not features:
             features = []
 
@@ -106,97 +133,3 @@ class MarkersMapView(TemplateView):
         }
         return context
 
-
-class LatestHackerView(TemplateView):
-    template_name = "latest_map.html"
-
-    def get_context_data(self, **kwargs):
-
-        context = (
-            super().get_context_data(
-                **kwargs
-            )
-        )
-
-        # geolocate the ip
-        timestamp, ip = algorithms.get_latest_ip()
-        location = algorithms.geocode(ip)
-
-        coordinates = []
-        coordinates.append(location['latitude'])
-        coordinates.append(location['longtitude'])
-
-        context['address'] = location['address']
-        context['country'] = location['country']
-        context['attacker_ip']= ip
-        context['timestamp'] = timestamp
-
-        context["markers"] = {
-          "type": "FeatureCollection",
-          "crs": {
-            "type": "name",
-            "properties": {
-              "name": "EPSG:4326"
-            }
-          },
-          "features": [
-            {
-              "id": 1,
-              "type": "Feature",
-              "properties": {
-                "name": ip,
-                "pk": "1"
-              },
-              "geometry": {
-                "type": "Point",
-                "coordinates": coordinates
-              }
-            }
-          ]
-        }
-        return context
-
-class LatestSeriesHackerView(TemplateView):
-    template_name = "latest_series_map.html"
-
-    def get_context_data(self, **kwargs):
-
-        context = (
-            super().get_context_data(
-                **kwargs
-            )
-        )
-
-        # geolocate the ips
-        ips = algorithms.get_latest_ips(60)
-
-        # convert them to leaflet features
-        features = algorithms.create_features(ips)
-        if not features:
-            features = []
-
-        context["markers"] = {
-          "type": "FeatureCollection",
-          "crs": {
-            "type": "name",
-            "properties": {
-              "name": "EPSG:4326"
-            }
-          },
-          "features": features
-        }
-        return context
-
-def SniffLastPeriod(request, period, seconds):
-
-    seconds = int(seconds)
-    # write the requested period to the session
-    request.session['period-to-check'] = seconds
-    request.session['period'] = period
-
-    if seconds == 0:
-        return redirect('/sniffers/latest')
-    else:
-        return redirect('/sniffers')
-
-    #return redirect_with_params('index', period)
