@@ -41,4 +41,8 @@ map.fitBounds(feature.getBounds(), {
   padding: [100, 100],
 });
 
-map.setZoom(3)
+// Fit the map to the markers' bounds
+const bounds = feature.getBounds();
+if (bounds.isValid()) {
+  map.fitBounds(bounds, { padding: [10, 10] });
+}
