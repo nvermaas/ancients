@@ -1,10 +1,23 @@
 from django.conf import settings
+from django.db.models import Q
 from ..models import Place
 
-def create_features():
+def get_searched_records(q):
+    if not q:
+        return Place.objects.all()
+
+    records = Place.objects.filter(
+        Q(name__icontains=q) |
+        Q(type__icontains=q) |
+        Q(region__icontains=q) |
+        Q(description__icontains=q))
+
+    return records
+
+def create_features(search):
 
     features = []
-    places = Place.objects.all()
+    places = get_searched_records(search)
 
     for place in places:
         try:

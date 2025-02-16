@@ -1,0 +1,28 @@
+name: build-deploy-ancients
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-deploy-ancients:
+    runs-on: ubuntu-latest
+    steps:
+      - name: execute build & deploy procedure on mintbox
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.MY_HOST }}
+          username: ${{ secrets.MY_USERNAME }}
+          password: ${{ secrets.MY_PASSWORD }}
+          #key: ${{ secrets.MY_PRIVATE_KEY }}
+          #source: "docker/docker-compose.yml"
+          #target: "~/my_docker/ancients"
+
+          script: |
+             cd ~/my_docker/ancients
+             git pull
+             docker build -t ancients:latest .
+             cd docker
+             docker stop ancients
+             docker rm ancients
+             docker-compose -p ancients up -d
