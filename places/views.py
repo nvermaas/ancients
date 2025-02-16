@@ -9,16 +9,17 @@ from places.services import algorithms
 def redirect_with_params(view_name, params):
     return redirect(reverse(view_name) + params)
 
+
 class ListView(ListView):
     model = Place
     queryset = Place.objects.all()
     template_name = "list.html"
 
+
 class MapView(ListView):
     model = Place
     queryset = Place.objects.all()
     template_name = "map.html"
-
 
     def get_context_data(self, **kwargs):
 
@@ -49,4 +50,8 @@ class MapView(ListView):
         return context
 
 
+def SetPlaceFilter(request,filter):
+    request.session['places_filter'] = filter
+
+    return redirect('/ancients/?ancients_search_box=' + filter)
 
