@@ -10,4 +10,4 @@ class Place(models.Model):
     description = models.TextField(blank=True, null=True)
 
     def __str__(self):
-        return self.ip + ' - ' + str(self.address)
+        return self.name
