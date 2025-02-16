@@ -21,6 +21,7 @@ class MapView(ListView):
     queryset = Place.objects.all()
     template_name = "map.html"
 
+
     def get_context_data(self, **kwargs):
 
         context = (
@@ -47,6 +48,10 @@ class MapView(ListView):
           "features": features
         }
 
+        types = Place.objects.values_list('type', flat=True).distinct()
+        context['types'] = types
+
+
         return context
 
 
@@ -54,4 +59,13 @@ def SetPlaceFilter(request,filter):
     request.session['places_filter'] = filter
 
     return redirect('/ancients/?ancients_search_box=' + filter)
+
+def place_dropdown(request):
+
+    types = Place.objects.values_list('type', flat=True).distinct()
+    return render(request, '/ancients/dropdown.html', {'types': types})
+
+    #selected_type = request.GET.get('place_type')
+
+    #return redirect('/ancients/?ancients_search_box=' + selected_type)
 

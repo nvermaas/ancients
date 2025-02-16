@@ -1,0 +1,10 @@
+    <form method="GET" action="{% url 'places:index' %}">
+        <label for="place_type">Select type:</label>
+        <select name="place_type" id="place_type">
+            <option value="">-- Select a Type --</option>
+            {% for type in types %}
+                <option value="{{ type }}">{{ type }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Submit</button>
+    </form>
