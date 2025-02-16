@@ -30,8 +30,13 @@ class MapView(ListView):
             )
         )
 
-        # convert them to leaflet features
-        search = self.request.GET.get('ancients_search_box', None)
+        # first check the dropdown button
+        search = self.request.GET.get('place_type', None)
+        if not search:
+            # then check the search box
+            search = self.request.GET.get('ancients_search_box', None)
+
+        # convert the filtered places to leaflet features
         features = algorithms.create_features(search)
 
         if not features:
@@ -48,24 +53,14 @@ class MapView(ListView):
           "features": features
         }
 
+        # fill the type filter dropdown button (dropdown.html)
         types = Place.objects.values_list('type', flat=True).distinct()
         context['types'] = types
-
 
         return context
 
 
 def SetPlaceFilter(request,filter):
     request.session['places_filter'] = filter
-
     return redirect('/ancients/?ancients_search_box=' + filter)
-
-def place_dropdown(request):
-
-    types = Place.objects.values_list('type', flat=True).distinct()
-    return render(request, '/ancients/dropdown.html', {'types': types})
-
-    #selected_type = request.GET.get('place_type')
-
-    #return redirect('/ancients/?ancients_search_box=' + selected_type)
 
