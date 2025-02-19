@@ -36,8 +36,9 @@ class MapView(ListView):
             # then check the search box
             search = self.request.GET.get('ancients_search_box', None)
 
+        country = self.request.session['country_filter']
         # convert the filtered places to leaflet features
-        features = algorithms.create_features(search)
+        features = algorithms.create_features(search, country)
 
         if not features:
             features = []
@@ -64,3 +65,6 @@ def SetPlaceFilter(request,filter):
     request.session['places_filter'] = filter
     return redirect('/ancients/?ancients_search_box=' + filter)
 
+def SetCountryFilter(request,filter):
+    request.session['country_filter'] = filter
+    return redirect('/ancients/?ancients_search_box=' + filter)

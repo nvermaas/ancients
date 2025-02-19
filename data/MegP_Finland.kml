@@ -1,0 +1,2686 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><kml xmlns="http://earth.google.com/kml/2.0">
+ <Document>
+ <description>Megalithic Portal data for Google Earth: Finland In-depth information on megaliths, prehistoric and ancient sites of all sorts can be found at The Megalithic Portal and Megalith Map: http://www.megalithic.co.uk . Follow the links for more details of each location. Data is copyright and not to be re-used outside of Google Earth without permission (but you are welcome to ask). This data is provided without any warranty or guarantee of fitness for purpose, and is for personal use only.</description>
+  <name>Megalithic Portal: Finland</name>
+    <Style id="1_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>               
+    <Folder><name><![CDATA[Ancient Village or Settlement]]></name><open>0</open>
+<Placemark>   <name>Ahvenkoski Harbour</name>   <description><![CDATA[
+        <b>Type:</b> Ancient Village or Settlement <br /> Pos Accuracy: <b>2</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.5 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.485<br />
+                    Ancient Settlement in Kymenlaakos, Finland.<br/>Discovered in 2010.  A large harbor, dating from around 1000–1200 AD at the mouth of western branch of the Kymijoki River in Finland. Findings include...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=34963" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#2_g</styleUrl>   <Point>     <coordinates>26.485,60.5,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Järvensuo I</name>   <description><![CDATA[
+        <b>Type:</b> Ancient Village or Settlement <br /> Pos Accuracy: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 61.33209 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.95069<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/figure204_final.jpg" align="right" valign="top"></a>
+<br />
+                    The wetland site of Järvensuo 1 in south-west Finland was a chance discovery during the digging of a ditch in the 1950s. The discovery, in 2020, of a unique wooden snake figurine broadens the underst...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=55465" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#2_r</styleUrl>   <Point>     <coordinates>23.95069,61.33209,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kierikki Keskus</name>   <description><![CDATA[
+        <b>Type:</b> Ancient Village or Settlement <b>Alt Name:</b> Kierikkikangas Stone Age Excavations <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 65.359466 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.05957<br />
+                    Ancient Village or Settlement in Yli-Ii, Finland. Ancient settlement northern banks of the river Iijoki dating to about 4000-3500 BCE. A wooden pathway to the Stone Age village goes through the site.<...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=20018" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#2_g</styleUrl>   <Point>     <coordinates>26.05957,65.359466,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Artificial Mound]]></name><open>0</open>
+<Placemark>   <name>Björkens/Söderskog</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.2198 &nbsp;&nbsp;&nbsp;<b>Long</b>: 19.98319<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/7_-_Björkens-Söderskog_VII_-_Ship_barrow.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. 39 graves from Late Iron-Age. In the burial field, there are several types of burial facilities that are characteristic of the Late Iron Age, including three ship barrows ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57723" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>19.98319,60.2198,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Flyhagen/Knösäkern</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <b>Alt Name:</b> Kungshögarna <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.23034 &nbsp;&nbsp;&nbsp;<b>Long</b>: 19.99339<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/1_-_Flyhagen-Knösäkern_I_-_Mound.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. 37 graves from Late Iron Age. Exposed location next to plantations, damaged by these. On the burial ground are some of Åland's largest burial facilities from the Late Iro...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57724" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>19.99339,60.23034,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Hiivanaanen</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 62.710409 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.263964<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/4_060620122675.jpg" align="right" valign="top"></a>
+<br />
+                    Antero has discovered this site in Finland. For many years, it has been totally covered with a forestry plantation. However, it has now been cleared and been sold to a new owner. The clearance has rev...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=31533" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>22.263964,62.710409,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Hiivanaasenkivi</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <b>Alt Name:</b> Hiivaloukko, Nenättömänluoma, Hiivanaisenluoma, Nopankylä <br /> Pos Accuracy: <b>4</b> Condition: <b>2</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 62.71025 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.26421667<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/4_060620122675.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. Blue moments to Stone of Hiivanaanen...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=33940" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>22.26421667,62.71025,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Johannisberg (Kvarnbo)</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.27498 &nbsp;&nbsp;&nbsp;<b>Long</b>: 20.05506<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/5_-_Johannisberg_V_-_Mound.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. 137 graves from Late Iron Age. The burial ground is one of Åland's largest. It has a very interesting location in connection with the church and the cultural warehouse wh...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57725" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>20.05506,60.27498,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Knösbackarna</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.24989 &nbsp;&nbsp;&nbsp;<b>Long</b>: 19.884662<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/2_-_Knösbackarna_II_-_General_view.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. 40 graves from Late Iron Age. Exposed location next to buildings. Seventeen facilities investigated in the years 1935-37, 1943 and 1945....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57726" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>19.884662,60.24989,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Knösgärdan</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.21053 &nbsp;&nbsp;&nbsp;<b>Long</b>: 19.61322<br />
+                    Artificial Mound in Finland. 22 graves from Late Iron Age. The burial field is mentioned in the priests' search for antiquities in 1667-74: "On Äkröön there are also such (mounds), with the church ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57727" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_g</styleUrl>   <Point>     <coordinates>19.61322,60.21053,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kvarnbacken</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.23949 &nbsp;&nbsp;&nbsp;<b>Long</b>: 19.74478<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/3_-_Kvarnbacken_III_-_General_view.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. 48 graves from Late Iron Age. Beautiful, well-kept burial ground. Partially damaged by buildings, road construction and looting pits....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57728" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>19.74478,60.23949,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Mellanåkersbacken</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.252 &nbsp;&nbsp;&nbsp;<b>Long</b>: 19.73308<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/6_-_Mellanåkersbacken_VI_-_Mound.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. 133 graves from Late Iron Age. The burial ground is one of the largest on Åland. Predominantly low, stone-bound mounds. Parts of the burial ground are cultivated....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57729" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>19.73308,60.252,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Myran</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.36516 &nbsp;&nbsp;&nbsp;<b>Long</b>: 19.85231<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/3_-_Myran_III_-_Mound.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. 63 graves from Late Iron Age. Beautiful, well-kept burial ground with several interesting grave types....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57730" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>19.85231,60.36516,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Smidbacka</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.36321 &nbsp;&nbsp;&nbsp;<b>Long</b>: 19.8514<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/3_-_Smidbacka_III_-_General_view.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Finland. 33 graves from Late Iron Age. The graveyard is one of Åland's most beautiful. Parts of the burial ground surveyed in 1857....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=57731" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>19.8514,60.36321,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Barrow Cemetery]]></name><open>0</open>
+<Placemark>   <name>Kokemaki</name>   <description><![CDATA[
+        <b>Type:</b> Barrow Cemetery <b>Alt Name:</b> Kumo <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 61.2583333 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.3541667<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/diealtereeivol1pt1hack_0062.jpg" align="right" valign="top"></a>
+<br />
+                    A Barrow Cemetery in Finland.. ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=33181" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#4_r</styleUrl>   <Point>     <coordinates>22.3541667,61.2583333,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Laitila</name>   <description><![CDATA[
+        <b>Type:</b> Barrow Cemetery <b>Alt Name:</b> Letala <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.874217 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.698108<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/diealtereeivol1pt1hack_0058.jpg" align="right" valign="top"></a>
+<br />
+                    Barrow cemetery in Finland. Barrow cemetery. As with many Finnish sites from old documents, there are two names, in Swedish and in Finnish....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=33189" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#4_r</styleUrl>   <Point>     <coordinates>21.698108,60.874217,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Lupaja</name>   <description><![CDATA[
+        <b>Type:</b> Barrow Cemetery <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.18488611 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.13016944<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/diealtereeivol1pt1hack_0030.jpg" align="right" valign="top"></a>
+<br />
+                    Barrow Cemetery in Finland. A cluster of burial sites in Finland....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=33146" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#4_r</styleUrl>   <Point>     <coordinates>23.13016944,60.18488611,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Tervajoki</name>   <description><![CDATA[
+        <b>Type:</b> Barrow Cemetery <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.032308 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.143453<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/diealtereeivol1pt1hack_0095.jpg" align="right" valign="top"></a>
+<br />
+                    Barrow Cemetery in Finland<br />
+<br />
+Area of barrows south of the village of Tervajoki.. ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=33159" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#4_r</styleUrl>   <Point>     <coordinates>22.143453,63.032308,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Vahakyro</name>   <description><![CDATA[
+        <b>Type:</b> Barrow Cemetery <b>Alt Name:</b> Lillkyro <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.0508333 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.1097222<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/diealtereeivol1pt1hack_0089.jpg" align="right" valign="top"></a>
+<br />
+                    Barrow cemetery in Finland. Barrow cemetery. Lillkyro is the Swedish name, Vahakyro in Finnish....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=33191" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#4_r</styleUrl>   <Point>     <coordinates>22.1097222,63.0508333,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Cairn]]></name><open>0</open>
+<Placemark>   <name>Isotalo, Nousiainen</name>   <description><![CDATA[
+        <b>Type:</b> Cairn <b>Alt Name:</b> Nousis <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.6 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.083333<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/diealtereeivol1pt1hack_0051.jpg" align="right" valign="top"></a>
+<br />
+                    Cairn in Finland<br />
+<br />
+Its unclear from the text if this is a flattened burial cairn or the remains of a barrow burial.. ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=33160" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#7_r</styleUrl>   <Point>     <coordinates>22.083333,60.6,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Merikarvia King's grave</name>   <description><![CDATA[
+        <b>Type:</b> Cairn <br /> Pos Accuracy: <b>3</b> Condition: <b>2</b> (5 is best)   Ambience: <b>3</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 61.857546 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.475058<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/030.JPG" align="right" valign="top"></a>
+<br />
+                    Cairn type structure consisting of piled up stones in woods on a rocky outcrop. It is behind the natural harbour of Merikarvia but the area is now covered by forest so it's hard to get a perspective o...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=19558" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#7_r</styleUrl>   <Point>     <coordinates>21.475058,61.857546,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pronssikautinen hauta Lehtisaari (1)</name>   <description><![CDATA[
+        <b>Type:</b> Cairn <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.17945 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.85628<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/20240515_132704.jpg" align="right" valign="top"></a>
+<br />
+                    Cairn in Finland. This Bronze Age grave is located directly on the island of Lehtisaari in Helsinki and can be easily reached on foot. <br />
+There is a small information board on site giving the app...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=60354" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#7_r</styleUrl>   <Point>     <coordinates>24.85628,60.17945,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pronssikautinen hauta Lehtisaari (2)</name>   <description><![CDATA[
+        <b>Type:</b> Cairn <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.17828 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.85461<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/20240515_133447.jpg" align="right" valign="top"></a>
+<br />
+                    Cairn in Finland. Another Bronze Age grave which is located directly on the island of Lehtisaari in Helsinki and can also easily reached on foot. It is in a not good condition but is still easly found...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=60355" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#7_r</styleUrl>   <Point>     <coordinates>24.85461,60.17828,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pronssikautinen hauta Meilahti (1)</name>   <description><![CDATA[
+        <b>Type:</b> Cairn <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.18726 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.90415<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/20240515_142012.jpg" align="right" valign="top"></a>
+<br />
+                    This Bronze Age grave near Helsinki is located right next to the street with a beautiful view of the sea, opposite a clinic. A spear chain surrounds the damaged grave. According to the information boa...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=60356" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#7_r</styleUrl>   <Point>     <coordinates>24.90415,60.18726,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Puonti</name>   <description><![CDATA[
+        <b>Type:</b> Cairn <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.413572222 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.15625<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/diealtereeivol1pt1hack_0043.jpg" align="right" valign="top"></a>
+<br />
+                    Cairn in Finland<br />
+<br />
+A burial cairn, probably with cremation burials.. ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=33147" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#7_r</styleUrl>   <Point>     <coordinates>23.15625,60.413572222,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Cave or Rock Shelter]]></name><open>0</open>
+<Placemark>   <name>Susiluola</name>   <description><![CDATA[
+        <b>Type:</b> Cave or Rock Shelter <b>Alt Name:</b> Wolf Cave <br /> Pos Accuracy: <b>4</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 62.303008 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.671536<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/flk4618433234.jpg" align="right" valign="top"></a>
+<br />
+                    Cave  in Finland. Northern Europe's oldest known dwelling site containing the only Neolithic finds in Nordic countries to date.. Named for its location on Wolf Mountain, Wolf Cave is the only cave in ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36359" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#35_r</styleUrl>   <Point>     <coordinates>21.671536,62.303008,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Hillfort]]></name><open>0</open>
+<Placemark>   <name>Borgboda Hillfort</name>   <description><![CDATA[
+        <b>Type:</b> Hillfort <b>Alt Name:</b> Borgberget Linnake, Borg Boda Linnake, Borg Boda Hillfort <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.269131 &nbsp;&nbsp;&nbsp;<b>Long</b>: 20.101461<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/WikimediaBorgboda_Saltviks_kommun_den_4_august.jpg" align="right" valign="top"></a>
+<br />
+                    Iron Age Hillfort in Finland. With an area of 3 hectares (7.4 acres), Borgboda Hillfort is the largest of one of six iron age hillforts in the municipality of Ǻland.  Sited on a steep hill, the fort ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36476" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#13_r</styleUrl>   <Point>     <coordinates>20.101461,60.269131,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Old Castle of Lieto</name>   <description><![CDATA[
+        <b>Type:</b> Hillfort <b>Alt Name:</b> Liedon Vanhalinna, Lieto Hillfort, Lieto Hill <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 60.486389 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.377222<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/flk15355361926.jpg" align="right" valign="top"></a>
+<br />
+                    Hillfort in Southern Finland<br />
+Near the present town of Turku in the southern part of Finland is one of the most important hill-forts in this region known as the Old Castle of Lieto or (in Finnis...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36485" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#13_r</styleUrl>   <Point>     <coordinates>22.377222,60.486389,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Rapola</name>   <description><![CDATA[
+        <b>Type:</b> Hillfort 
+                    <b>Lat:</b> 61.2 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.06<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/valli.JPG" align="right" valign="top"></a>
+<br />
+                    Hillfort in Finland. Rapola hillfort in Finland from the Viking era to the Crusade era (800AD to 1200AD). Coordinates 61.20N, 24.06E<br /><br />Also an Iron Age grave and cup-marked rock in the vicini...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=16594" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#13_r</styleUrl>   <Point>     <coordinates>24.06,61.2,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Holy Well or Sacred Spring]]></name><open>0</open>
+<Placemark>   <name>Levänluhta</name>   <description><![CDATA[
+        <b>Type:</b> Holy Well or Sacred Spring <br /> Pos Accuracy: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 62.9487306 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.4104087<br />
+                    Levänluhta is a swampy source known for mysterious prehistoric findings. About 100 people have been discovered buried in the former lake of Levänluhta in the Iron Age. Archaeologists have also found...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36157" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#45_g</styleUrl>   <Point>     <coordinates>22.4104087,62.9487306,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Modern Stone Circle etc]]></name><open>0</open>
+<Placemark>   <name>Ruutinpuisto Stonehenge</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <b>Alt Name:</b> Kemi Stonehenge, Finland Stonehenge, Escultura <br /> Pos Accuracy: <b>4</b> Condition: <b>5</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 65.7378086 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.55434<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/327337723_170095475559590_7225457452340856364_.jpg" align="right" valign="top"></a>
+<br />
+                    Near the border between Finland and Sweden on the shores of the Gulf of Bothnia in a park in the city of Kemi stands a granite sculpture modelled after Stonehenge, entitled Stone Age. It was designed ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=58320" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>24.55434,65.7378086,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Museum]]></name><open>0</open>
+<Placemark>   <name>National Museum of Finland</name>   <description><![CDATA[
+        <b>Type:</b> Museum <b>Alt Name:</b> Suomen kansallismuseo,Finlands nationalmuseum <br /> Pos Accuracy: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.175 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.932<br />
+                    Museum in Uusimaa.<br/>Largest display of prehistoric artifacts in Finland.  A large collection of artifacts from Mesa Verde is also a permanent exhibit.. Museum website....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=31466" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#38_g</styleUrl>   <Point>     <coordinates>24.932,60.175,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Natural Stone / Erratic / Other Natural Feature]]></name><open>0</open>
+<Placemark>   <name>Käpylä Hiidenkirnu</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Devil's Kettle, Devil's Cauldron, Giant's Kettle, Giant's Cauldron <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.214789 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.941193<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/rz_IMG_1634.JPG" align="right" valign="top"></a>
+<br />
+                    Natural Feature in Helsinki, Finland.. During a trip to Helsinki, the capital of Finland, I found out about these Hiidenkirnu - large holes created during the time of the Ice Age. Much research unlock...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=29078" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>24.941193,60.214789,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Lemin Heiluvakivi</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Balancing stone Lemin <br /> Pos Accuracy: <b>3</b> Condition: <b>5</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 61.061553 &nbsp;&nbsp;&nbsp;<b>Long</b>: 27.804153<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/dnr_9.jpg" align="right" valign="top"></a>
+<br />
+                    Balancing Stone/Natural Erratic in Finland. ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=51773" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>27.804153,61.061553,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Liikkuva kivi</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Balancing Stone Sysmä; The Moving Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 61.414402 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.03873<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/pkm_6677.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Finland. This large balancing stone Sysmä is on top of a flat rock, Heinola, in Onkiniemi....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=52297" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>26.03873,61.414402,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pihlajamäki Hiidenkirnu</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Buttermilk Cauldron <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 60.23889 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.003846<br />
+                    Natural Stone / Erratic / Other Natural Feature in Finland. The largest of the Helsinki 'Devil's Pohotles', and the oldest. Between 50,000 and 100,000 years old (or more). If my understanding is corre...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=29079" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_g</styleUrl>   <Point>     <coordinates>25.003846,60.23889,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Strange rock Kummakivi</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Balancing Boulder <br /> Pos Accuracy: <b>3</b> Condition: <b>5</b> (5 is best)   Ambience: <b>5</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 61.492583 &nbsp;&nbsp;&nbsp;<b>Long</b>: 28.428044<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/glacial_erratic.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic in Finland. One of the most striking and impressive Balancing boulders in Europe...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38695" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>28.428044,61.492583,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>The Devil's Nest (Pirunpesä)</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Giant Kettle Pirunpesä, Giant Kettle Pirunpesä, Devil's Nest (Pirunpesa) <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 62.399056 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.895472<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/JalasjarviWikimediabyHomolulu.jpg" align="right" valign="top"></a>
+<br />
+                    Natural feature near Pirunpesä, Finland. Similar to the Käpylä Hiidenkirnu, the Devil's Kettle, near Helsinki, this natural feature has been created by glacial action over many hundreds of thousand...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36381" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>22.895472,62.399056,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Rock Art]]></name><open>0</open>
+<Placemark>   <name>Astuvansalmi rock paintings</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <b>Alt Name:</b> Astuvansalmen kalliomaalaukset <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 61.441667 &nbsp;&nbsp;&nbsp;<b>Long</b>: 27.541667<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/flk8757254040.jpg" align="right" valign="top"></a>
+<br />
+                    Rock Art in Finland. The Astuvansalmi rock paintings (Finnish: Astuvansalmen kalliomaalaukset) are located in Finland at the shores of the lake Yövesi, which is a part of the large lake Saimaa. The r...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=24947" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_r</styleUrl>   <Point>     <coordinates>27.541667,61.441667,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Hovin Manor Stone</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <br /> Pos Accuracy: <b>2</b> Condition: <b>4</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 61.16839 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.666719<br />
+                    Rock Art in Finland. The largest sacrifice stone of Finland lies in the park of Hovin Manor. It has many cup marks on its surface. For access please ask at Hovin Manor. ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=51605" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_g</styleUrl>   <Point>     <coordinates>24.666719,61.16839,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kauriala Uhrikivi</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 61.000515 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.435819<br />
+                    Rock Art in Finland. One of the largest sacrifice stones in Finland with over 136 cup marks on its surface. it is situated in front of a car dealer....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=51604" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_g</styleUrl>   <Point>     <coordinates>24.435819,61.000515,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pirunpöytä</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <b>Alt Name:</b> Devil's table <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 62.07192018 &nbsp;&nbsp;&nbsp;<b>Long</b>: 29.6720443<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/xgl_IMG_1721.jpg" align="right" valign="top"></a>
+<br />
+                    Rock Art in Finland. The Devil's table is a sacrificial stone located in the village of Hummovaara in Kesälahti. The height of the stone is 0.3–0.5 meters and its sides measure 2.05 meters and 1.78...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=53972" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_r</styleUrl>   <Point>     <coordinates>29.6720443,62.07192018,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Saraakallio</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <br /> Pos Accuracy: <b>3</b> Condition: <b>3</b> (5 is best)   Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 62.417585 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.997243<br />
+                    Rock Art in Finland. Rock paintings on a large rock at a lakeside east of Laukaa. Until 200 paintings more or less visible could still be found at this site. The oldest are over 6000 years old....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38662" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_g</styleUrl>   <Point>     <coordinates>25.997243,62.417585,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Round Cairn]]></name><open>0</open>
+<Placemark>   <name>Ukonkivi</name>   <description><![CDATA[
+        <b>Type:</b> Round Cairn <b>Alt Name:</b> Ukko's Stone <br /> Pos Accuracy: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 68.939 &nbsp;&nbsp;&nbsp;<b>Long</b>: 27.292<br />
+                    Round Cairn in Northern Finland.</br>A stone arrangement in shallow water off Ukonsaari Island in lake Inari, Finnish Lapland.  Ukko is the ancient Finnish Thunder God.  The island is considered a hol...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=26508" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#19_g</styleUrl>   <Point>     <coordinates>27.292,68.939,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Stone Fort or Dun]]></name><open>0</open>
+<Placemark>   <name>Esse-Hembacken Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Esse-Hembacken Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.50403072 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.28593619<br />
+                    Stone Fort or Dun in Finland. Esse-Hembacken Giant’s Church in the Pedesöre region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age,...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44467" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.28593619,63.50403072,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Esse-Svedjebacken Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Esse-Svedjebacken Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.51118357 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.14957165<br />
+                    Stone Fort or Dun in Finland. Esse-Svedjebacken Giant’s Church in the  Pedersöre  region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  <br />
+<br /...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44684" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.14957165,63.51118357,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Esse-Tallbackharju Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Esse-Tallbackharju Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.53451097 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.24457364<br />
+                    Stone Fort or Dun in Finland. Esse-Tallbackharju Giant’s Church in the Pedersöre region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  <br />
+<br >...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44685" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.24457364,63.53451097,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Esse-Tallbackharju N Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Esse-Tallbackharju N Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.54038725 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.23838172<br />
+                    Stone Fort or Dun in Finland. Esse-Tallbackharju N Giant’s Church in the  Pedersöre  region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  <br />
+<b...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44699" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.23838172,63.54038725,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Hangaskangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Hangakangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.0654465 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.02485593<br />
+                    Neolithic stone structure in Finland. No-one is sure why these massive structures, named Giant’s Churches or Jätinkirkko, were built around 2,000 BC.  They exist only in Ostrobothnia in western Fin...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36449" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.02485593,64.0654465,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Hankapalo Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Hankopalo <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 65.42593563 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.56411317<br />
+                    Stone Fort or Dun in Finland. Hankopalo is one of seven structures listed as being a Giant’s Church, but not yet confirmed as one.  Sited  in the Ii region it is one of around 50 Neolithic stone str...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45670" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.56411317,65.42593563,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Hautakangas Giant's Church (Kokkola)</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Hautakangas Jätinkirkko (Kokkola) <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.82688344 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.72219407<br />
+                    Stone Fort or Dunn in Finland. Hautakangas Giant’s Church is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Built in a naturally rocky area, Hautakangas ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36452" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.72219407,63.82688344,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Hautakangas Giant's Church (Tyrnävä)</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Hautakangas Jätinkirkko (Tyrnävä) <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.69602092 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.95802486<br />
+                    Stone Fort or Dun in Finland. Hautakangas (not to be confused with Hautakangas in the Kokkola region) is one of seven structures listed as being a Giant’s Church, but not yet confirmed as one.  Site...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45658" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.95802486,64.69602092,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Högryggen Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Högryggen Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.6498702 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.29662212<br />
+                    Stone Fort or Dun in Finland. Högryggen Giant’s Church in the Kruunupyy region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, all...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44372" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.29662212,63.6498702,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Höjsalträsk Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Höjsalträsk Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.113118 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.43572735<br />
+                    Stone Fort or Dun in Finland. Höjsalträsk Giant’s Church in the Vöyri region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.<br /><br />
+The officia...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45644" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>22.43572735,63.113118,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Jätinlinna Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Jätinlinna Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.65250994 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.389347781<br />
+                    Stone Fort or Dun in Finland. Jätinlinna Giant's Church in the Haapajärvi region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, al...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44302" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.389347781,63.65250994,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Jättiläissaari Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Jättiläissaari Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 64.9288838 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.12818778<br />
+                    Stone Fort or Dun in Finland. Jättiläissaari Giant’s Church in the Muhos region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, a...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44413" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>26.12818778,64.9288838,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Jatulinlehto Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Jatulinlehto Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 65.89908612 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.12435865<br />
+                    Stone Fort or Dun in Finland. Jatulinlehto Giant’s Church in the Keminmaa region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, al...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44339" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.12435865,65.89908612,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kämppäkangas Giant's Church 1</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Kämppäkangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.78319944 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.49385243<br />
+                    Stone Fort or Dun in Finland. Kämppäkangas Giant’s Church in the Kokkola region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, a...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44356" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.49385243,63.78319944,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kämppäkangas Giant's Church 2</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Kämppäkangas 2 Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.78549 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.49383184<br />
+                    Stone Fort or Dun in Finland. Kämppäkangas 2 Giant’s Church in the Kokkola region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age,...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44357" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.49383184,63.78549,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kastelli Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Kastelli Jätinkirkko; Kastelli Jatinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.631389 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.715556<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/Kastellin_Jatinkirkko_20090627-800-x-599.jpg" align="right" valign="top"></a>
+<br />
+                    Neolithic stone structure in Finland. Kastelli Jätinkirkko (Jätinkirkko meaning 'giant's church') is the largest and most visible of around 50 known Neolithic stone structures which are unique to Os...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36370" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_r</styleUrl>   <Point>     <coordinates>24.715556,64.631389,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kastelli Linnakangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Kastelli Linnakangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 64.63149319 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.71181448<br />
+                    Stone Fort or Dun in Finland. Kastelli Linnakangas Giant’s Church in the Raahe region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  <br />
+<br />
+D...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44703" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.71181448,64.63149319,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kejsmolandsbacken Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Kejsmolandsbacken Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.43456187 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.03657239<br />
+                    Stone Fort or Dun in Finland. Kejsmolandsbacken  Giant’s Church in the  Pedersöre  region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  <br />
+<br ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44698" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.03657239,63.43456187,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kettukangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Kettukangas Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.58233593 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.63248268<br />
+                    Stone Fort or Dun in Finland. Kettukangas is one of seven structures listed as being a Giant’s Church, but not yet confirmed as one.  Sited  in the Raahe region it is one of around 50 Neolithic ston...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45673" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.63248268,64.58233593,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kiimanevan Hautakangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Kiimanevan Hautakangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.72912702 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.65149538<br />
+                    Stone Fort or Dun in Finland. Kiimanevan Hautakangas Giant’s Church in the Kokkola region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Ston...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44340" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.65149538,63.72912702,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kiviojankangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Kiviojankangas Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.62364796 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.70033937<br />
+                    Stone Fort or Dun in Finland. Kiviojankangas is one of seven structures listed as being a Giant’s Church, but not yet confirmed as one.  Sited  in the Raahe region it is one of around 50 Neolithic s...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45672" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.70033937,64.62364796,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Korkeamäki Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Korkeamäki Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.25007553 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.98803477<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/24th_August_2017_Kokonmäki.jpg" align="right" valign="top"></a>
+<br />
+                    Stone Fort or Dun in Finland. Korkeamäki Giant’s Church is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, all Giant's Church structu...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44246" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_r</styleUrl>   <Point>     <coordinates>22.98803477,63.25007553,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Laivakangas NE Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Laivakangas NE Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 65.18045354 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.76274518<br />
+                    Stone Fort or Dun in Finland. Laivakangas NE Giant’s Church in the Oulu region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, all ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44464" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.76274518,65.18045354,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Linnakangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Linnakangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 64.62834011 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.31602358<br />
+                    Neolithic Stone Structure in Western Finland. Linnakangas Giant’s Church or Linnakangas Jätinkirkko (Jätinkirkko meaning 'giant's church' in Finnish) is one of around 50 known Neolithic stone stru...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36526" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.31602358,64.62834011,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Linnamaa Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Linnamaa Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.64341865 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.73535759<br />
+                    Stone Fort or Dun in Finland. Linnamaa is one of seven structures listed as being a Giant’s Church, but not yet confirmed as one.  Sited  in the Liminka region it is one of around 50 Neolithic stone...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45648" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.73535759,64.64341865,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Linnasaari Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Linnasaari Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 65.05705135 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.76592109<br />
+                    Stone Fort or Dun in Finland. Linnasaari Giant’s Church in the Oulu region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, all Gian...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44465" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.76592109,65.05705135,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Mäntyselkä Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Mäntyselkä Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 65.26457281 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.72911771<br />
+                    Stone Fort or Dun in Finland. Mäntyselkä is one of seven structures listed as being a Giant’s Church, but not yet confirmed as one.  Sited  in the Oulu region it is one of around 50 Neolithic ston...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45671" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.72911771,65.26457281,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Metelinkangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Metelinkangas Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.73165332 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.89916163<br />
+                    Stone Fort or Dun in Finland. Metalinkangas Giant’s Church in the Tyrnävä region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.<br /><br />
+The offi...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45643" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.89916163,64.73165332,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Metelinkirkko, Huhinmaa Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 65.36460271 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.72254449<br />
+                    Stone Fort or Dun in Finland. Metelinkirkko, Huhinmaa Giant’s Church in the Oulu region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44466" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.72254449,65.36460271,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Miehenneva Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Miehenneva Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 64.6534801 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.32625036<br />
+                    Stone Fort or Dun in Finland. Miehenneva Giant’s Church in the Alavieska region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, all...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44248" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.32625036,64.6534801,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Mustosenkangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Mustosenkangas Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.74522394 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.22174017<br />
+                    Stone Fort or Dun in Finland. Mustosenkangas is listed as one of seven structures thought to be a Giant's Church stone age structure, but not yet confirmed as one.  Sited in the Liminka region, it is ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45647" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>25.22174017,64.74522394,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Nedervetil Kåtabacken Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Nedervetil Kåtabacken Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.67821342 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.41258394<br />
+                    Stone Fort or Dun in Finland. Nedervetil Kåtabacken Giant’s Church in the Kruunupyy  region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as S...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44374" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.41258394,63.67821342,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pesuankangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Pesuankangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>Destroyed</b>  (5 is best)<br />
+                    <b>Lat:</b> 64.61879234 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.34963775<br />
+                    Stone Fort or Dun in Finland. Pesuankangas Giant’s Church in the Siikajoki region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.<br /><br />
+The offic...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45642" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_y</styleUrl>   <Point>     <coordinates>25.34963775,64.61879234,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pikku Hautakangas</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Pikku Hautakangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.77691769 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.68052715<br />
+                    Stone Fort or Dun in Finland. Pikku Hautakangas Giant’s Church in the Kokkola region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44362" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.68052715,63.77691769,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pikku Jakenaro Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Pikku Jakenaro Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 64.58563819 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.65655826<br />
+                    Stone Fort or Dun in Finland. Pikku Jakenaro Giant’s Church in the Raahe region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  <br />
+<br />
+Classed...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44714" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.65655826,64.58563819,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pikku Liekokangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Pikku Liekokangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 64.63746901 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.73666154<br />
+                    Stone Fort or Dun in Finland. Pikku Liekokangas Giant’s Church, dated to the Stone Age, in the Raahe region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finla...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44715" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.73666154,64.63746901,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pirttihaudankangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Pirttihaudankangas Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 64.53984564 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.57690675<br />
+                    Stone Fort or Dun in Finland. Pirttihaudankangas Giant’s Church in the Raahe region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.<br />
+<br />
+Dated...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44761" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.57690675,64.53984564,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pirttivaara Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Pirttivaara Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 64.54814349 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.57101601<br />
+                    Stone Fort or Dun in Finland. Pirttivaara Giant’s Church in the Alavieska region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.<br />
+<br />
+The offi...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44762" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>24.57101601,64.54814349,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Purmo-Jäknabacken Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Purmo-Jäknabacken Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.47382895 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.1141697<br />
+                    Stone Fort or Dun in Finland. Purmo-Jäknabacken Giant’s Church in the Pedersöre region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  <br />
+<br />...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44702" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.1141697,63.47382895,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Rahkalampinkangas 1 Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Rahkalampinkangas 1 Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.77818736 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.49760245<br />
+                    Stone Fort or Dun in Finland. Rahkalampinkangas 1 Giant’s Church in the Kokkola region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone A...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44363" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.49760245,63.77818736,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Rahkalampinkangas 2 Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Rahkalampinkangas 2 Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.77604547 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.49967545<br />
+                    Stone Fort or Dun in Finland. Rahkalampinkangas 2 Giant’s Church in the Kokkola region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone A...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44364" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.49967545,63.77604547,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Rajakangas Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Rajakangas Jätinkirkko; Rajakangas Jatinkirkko <br /> Pos Accuracy: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 65.2 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.8<img src="http://www.megalithic.co.uk/a558/a312/gallery/Scandinavia/Finland/thumb/Rajakangas_Giants_Church-Wikimedia-Commons-Oll.jpg" align="right" valign="top"></a>
+<br />
+                    Neolithic stone structure in Finland. Giant’s Churches are Neolithic stone structures unique to the coastal area of Ostrobothnia in western Finland.  Sources differ as to the number of these sites, ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36380" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_r</styleUrl>   <Point>     <coordinates>25.8,65.2,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Storbacken Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Storbacken Jätinkirkko <br /> Pos Accuracy: <b>5</b> Condition: <b>2</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 63.47642094 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.30831194<br />
+                    Stone Fort or Dunn in Finland. Storbacken Giant’s Church in the Evijärvi region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, al...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44301" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.30831194,63.47642094,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Tavoma 1 Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Tavoma 1 Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.15699536 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.45912353<br />
+                    Stone Fort or Dun in Finland. Tavoma 1 is an unscheduled Giant’s Church in the Vöyri region. It is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.<br /><b...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=45657" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>22.45912353,63.15699536,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Terjärv-Snårbacken Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Terjärv-Snårbacken Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.58221987 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.40197736<br />
+                    Stone Fort or Dun in Finland. Terjärv-Snårbacken Giant’s Church in the Kruunupyy region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Ston...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44411" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.40197736,63.58221987,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Tressunharju Giant's Church</name>   <description><![CDATA[
+        <b>Type:</b> Stone Fort or Dun <b>Alt Name:</b> Tressunharju Jätinkirkko <br /> Pos Accuracy: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 63.72758928 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.61225376<br />
+                    Stone Fort or Dun in Finland. Tressunharju Giant’s Church in the Kokkola region is one of around 50 Neolithic stone structures found only in Ostrobothnia in Western Finland.  Dated as Stone Age, all...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44371" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#24_g</styleUrl>   <Point>     <coordinates>23.61225376,63.72758928,0</coordinates>   </Point>  </Placemark></Folder></Document>
+</kml>
