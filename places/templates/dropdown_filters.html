@@ -1,7 +1,7 @@
     <form method="GET" action="{% url 'places:index' %}">
         <label for="country">Country:</label>
         <select name="country" id="country">
-            <option value="">-- Select a Country --</option>
+            <option value="">{{ country }}</option>
             {% for country in countries %}
                 <option value="{{ country }}">{{ country }}</option>
             {% endfor %}
@@ -9,7 +9,7 @@
 
         <label for="place_type"> Type:</label>
         <select name="place_type" id="place_type">
-            <option value="">-- Select a Type --</option>
+            <option value="">{{ place_type }}</option>
             {% for type in types %}
                 <option value="{{ type }}">{{ type }}</option>
             {% endfor %}

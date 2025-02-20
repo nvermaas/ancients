@@ -32,11 +32,11 @@ class MapView(ListView):
 
         # first check the dropdown buttons
         country = self.request.GET.get('country', "Netherlands")
+        place_type = self.request.GET.get('place_type', None)
 
-        search = self.request.GET.get('place_type', None)
+        search = self.request.GET.get('ancients_search_box', "Stone Circle")
         if not search:
-            # then check the search box
-            search = self.request.GET.get('ancients_search_box', None)
+            search = place_type
 
         #country = self.request.session['country_filter']
         # convert the filtered places to leaflet features
@@ -59,10 +59,12 @@ class MapView(ListView):
         # fill the type filter dropdown button (dropdown.html)
         countries = Place.objects.values_list('country', flat=True).distinct()
         context['countries'] = countries
+        context['country'] = country
 
         #types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
         types = Place.objects.values_list('type', flat=True).distinct()
         context['types'] = types
+        context['place_type'] = place_type
 
         return context
 
