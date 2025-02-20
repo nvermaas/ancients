@@ -1,5 +1,5 @@
     <form method="GET" action="{% url 'places:index' %}">
-        <label for="place_type">Select type:</label>
+        <label for="place_type">Type:</label>
         <select name="place_type" id="place_type">
             <option value="">-- Select a Type --</option>
             {% for type in types %}

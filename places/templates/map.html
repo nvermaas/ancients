@@ -2,9 +2,10 @@
 {% load static %}
 
 {% block myBlock %}
-    {% include 'country_buttons.html' %}
-        {{ markers|json_script:"markers-data" }}
-        <div id="map"></div>
-        <script src="{% static 'map.js' %}"></script>
+    {% include 'buttonbar.html' %}
+    {{ markers|json_script:"markers-data" }}
+    <div id="map"></div>
+
+    <script src="{% static 'map.js' %}"></script>
 
 {% endblock %}
