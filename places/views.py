@@ -1,13 +1,10 @@
 from .models import Place
 
-from django.shortcuts import render, redirect, reverse
+from django.shortcuts import render, redirect
 from django.views.generic import ListView, TemplateView
 from places.services import algorithms
+from django.contrib.auth.decorators import login_required
 
-
-
-def redirect_with_params(view_name, params):
-    return redirect(reverse(view_name) + params)
 
 
 class ListView(ListView):
@@ -30,35 +27,9 @@ class MapView(ListView):
             )
         )
 
-        # first check the dropdown buttons
-        # when they are changed, put the new value on the session... otherwise read the old value from the session
-        country = self.request.GET.get('country', "netherlands")
-        if country:
-            self.request.session['country'] = country
-        else:
-            try:
-                country = self.request.session['country']
-            except:
-                country = "netherlands"
-                self.request.session['country'] = country
-
-        place_type = self.request.GET.get('place_type', "Stone Circle")
-        if place_type:
-            self.request.session['place_type'] = place_type
-        else:
-            try:
-                place_type = self.request.session['place_type']
-            except:
-                place_typetry = "Stone Circle"
-                self.request.session['place_type'] = place_type
-
-        search = self.request.GET.get('ancients_search_box', None)
-        if not search:
-            search = place_type
-
-        #country = self.request.session['country_filter']
-        # convert the filtered places to leaflet features
-        features = algorithms.create_features(country, search)
+        country,place_type,search = algorithms.get_current_filter_values(self.request)
+        places = algorithms.select_records(country,place_type)
+        features = algorithms.create_features(places)
 
         if not features:
             features = []
@@ -86,11 +57,10 @@ class MapView(ListView):
 
         return context
 
-
-# def SetPlaceFilter(request,filter):
-#     request.session['places_filter'] = filter
-#     return redirect('/ancients/?ancients_search_box=' + filter)
-#
-# def SetCountryFilter(request,filter):
-#     request.session['country_filter'] = filter
-#     return redirect('/ancients/?ancients_search_box=' + filter)
+@login_required
+def reload_data(request):
+    """
+    recreate the database by reloading all the kml files from the data directory
+    """
+    algorithms.reload_data()
+    return redirect('/ancients')

@@ -41,7 +41,13 @@
 
                  <ul class="nav navbar-nav navbar-right">
                      <li>
-                         <a class="nav-link" href="{% url 'admin:index' %}" target="_blank">Admin</a></li>
+                         {% if user.is_superuser %}
+                             <a class="nav-link" href="{% url 'places:reload-data' %}">Reload Data</a>
+                         {%  endif %}
+                     </li>
+                    <li>
+                         <a class="nav-link" href="{% url 'admin:index' %}" target="_blank">Admin</a>
+                     </li>
                      <li class="">
                          <td>
                              {% include 'search.html' %}
@@ -55,5 +61,5 @@
     {% block myBlock %}
     {% endblock %}
   </body>
-    <p class="footer"> Version 16 Feb 2025</p>
+    <p class="footer"> Version 22 Feb 2025</p>
 </html>

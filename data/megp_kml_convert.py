@@ -128,7 +128,7 @@ def convert_kml(kml_filename,country):
             # retrieve type from description
             type = read_from_description('<b>Type:</b>',description)
             region = read_from_description('<b>County/Region:</b>',description)
-            country = country
+
             rec = (name, type, region, country, latitude, longtitude, description)
             records.append(rec)
 
