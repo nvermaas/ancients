@@ -1,19 +1,18 @@
-    <form method="GET" action="{% url 'places:index' %}">
+    <form method="GET" action="{% url 'places:index' %}" id="filterForm">
         <label for="country">Country:</label>
-        <select name="country" id="country">
-            <option value="">-- Select a Country --</option>
+        <select name="country" id="country" onchange="document.getElementById('filterForm').submit();">
+            <option value="">{{ country }}</option>
             {% for country in countries %}
                 <option value="{{ country }}">{{ country }}</option>
             {% endfor %}
         </select>
 
         <label for="place_type"> Type:</label>
-        <select name="place_type" id="place_type">
-            <option value="">-- Select a Type --</option>
+        <select name="place_type" id="place_type" onchange="document.getElementById('filterForm').submit();">
+            <option value="">{{ place_type }}</option>
             {% for type in types %}
                 <option value="{{ type }}">{{ type }}</option>
             {% endfor %}
         </select>
 
-        <button type="submit">Filter</button>
     </form>

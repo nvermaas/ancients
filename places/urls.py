@@ -9,6 +9,6 @@ urlpatterns = [
     path("list", views.ListView.as_view(),name='list'),
     path("map", views.MapView.as_view(),name='map'),
 
-    path('set_place_filter/<filter>', views.SetPlaceFilter, name='set-place-filter'),
-    path('set_country_filter/<filter>', views.SetCountryFilter, name='set-country-filter'),
+    #path('set_place_filter/<filter>', views.SetPlaceFilter, name='set-place-filter'),
+    #path('set_country_filter/<filter>', views.SetCountryFilter, name='set-country-filter'),
 ]
