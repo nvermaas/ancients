@@ -51,7 +51,6 @@ def fill_context_data(request, context, add_features=False):
 
 class ListView(ListView):
     model = Place
-    #queryset = Place.objects.all()
     template_name = "list.html"
 
     def get_queryset(self):
@@ -59,7 +58,9 @@ class ListView(ListView):
         return algorithms.select_records(country,place_type)
 
     def get_context_data(self, **kwargs):
-
+        """
+        add data to the 'context' that can be read by the html templates
+        """
         context = (
             super().get_context_data(
                 **kwargs
@@ -72,12 +73,16 @@ class ListView(ListView):
 
 class MapView(ListView):
     model = Place
-    queryset = Place.objects.all()
     template_name = "map.html"
 
+    def get_queryset(self):
+        country, place_type, search = algorithms.get_current_filter_values(self.request)
+        return algorithms.select_records(country,place_type)
 
     def get_context_data(self, **kwargs):
-
+        """
+        add data to the 'context' that can be read by the html templates
+        """
         context = (
             super().get_context_data(
                 **kwargs
@@ -86,7 +91,6 @@ class MapView(ListView):
 
         context = fill_context_data(self.request, context, add_features=True)
 
-
         return context
 
 def welcome(request):
@@ -94,6 +98,7 @@ def welcome(request):
     welcome page
     """
     return render(request,'welcome.html')
+
 
 @login_required
 def reload_data(request):

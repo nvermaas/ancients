@@ -76,34 +76,36 @@ def create_features(places):
     features = []
 
     for place in places:
-        try:
+        # skip records with 0,0 coordinates (like 'all')
+        if place.latitude != 0:
+            try:
 
-            coordinates = []
-            coordinates.append(place.longtitude)
-            coordinates.append(place.latitude)
+                coordinates = []
+                coordinates.append(place.longtitude)
+                coordinates.append(place.latitude)
 
-            feature = {}
-            feature['id'] = place.id
-            feature['type'] = 'Feature'
+                feature = {}
+                feature['id'] = place.id
+                feature['type'] = 'Feature'
 
-            properties = {}
-            properties['name'] = f'<H3>{place.name}</H3><hr><h5>{place.description}</h5>'
-            properties['pk'] = place.id
+                properties = {}
+                properties['name'] = f'<H3>{place.name}</H3><hr><h5>{place.description}</h5>'
+                properties['pk'] = place.id
 
-            properties['color'] = 'green'
-            properties['radius'] = 4
+                properties['color'] = 'green'
+                properties['radius'] = 4
 
-            feature['properties'] = properties
+                feature['properties'] = properties
 
-            geometry = {}
-            geometry['type'] = "Point"
-            geometry['coordinates'] = coordinates
+                geometry = {}
+                geometry['type'] = "Point"
+                geometry['coordinates'] = coordinates
 
-            feature['geometry'] = geometry
+                feature['geometry'] = geometry
 
-            features.append(feature)
-        except:
-            pass
+                features.append(feature)
+            except:
+                pass
 
     return features
 
@@ -181,10 +183,7 @@ def reload_data():
     if not fake_it:
         Place.objects.all().delete()
 
-    # add an 'all' record for the selection dropdown boxes
-    place = Place(type="All",country="All",latitude=0,longtitude=0)
-    if not fake_it:
-        place.save()
+
 
     for kml_file in glob.glob(os.path.join(directory, "*.kml")):
         filename = os.path.basename(kml_file)
@@ -197,6 +196,11 @@ def reload_data():
             # convert the kml file to a list of records
             records = convert_kml(kml_file,country)
             print(f'{filename} => {country}: {len(records)}... adding to database')
+
+            # add an 'all' record for the selection dropdown boxes
+            place = Place(type="All", country=country, latitude=0, longtitude=0)
+            if not fake_it:
+                place.save()
 
             # insert the records into the ancients.sqlite3 database
             for record in records:
