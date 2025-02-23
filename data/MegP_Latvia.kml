@@ -1,0 +1,2283 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><kml xmlns="http://earth.google.com/kml/2.0">
+ <Document>
+ <description>Megalithic Portal data for Google Earth: Latvia In-depth information on megaliths, prehistoric and ancient sites of all sorts can be found at The Megalithic Portal and Megalith Map: http://www.megalithic.co.uk . Follow the links for more details of each location. Data is copyright and not to be re-used outside of Google Earth without permission (but you are welcome to ask). This data is provided without any warranty or guarantee of fitness for purpose, and is for personal use only.</description>
+  <name>Megalithic Portal: Latvia</name>
+    <Style id="1_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>               
+    <Folder><name><![CDATA[Ancient Cross]]></name><open>0</open>
+<Placemark>   <name>Ūdri (Pūķi) cross stone</name>   <description><![CDATA[
+        <b>Type:</b> Ancient Cross <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.147971 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.37658<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/Udri_img_0006.jpg" align="right" valign="top"></a>
+<br />
+                     Ūdri cross stone is located at Pūķi (as Ūdri are renamed recently) farmstead (Amata parish/pagasts) living house, 12–15 meters from it's DR corner, at the right side of entrance road, besides l...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=51745" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#46_r</styleUrl>   <Point>     <coordinates>25.37658,57.147971,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Ancient Village or Settlement]]></name><open>0</open>
+<Placemark>   <name>Pokaini Forest</name>   <description><![CDATA[
+        <b>Type:</b> Ancient Village or Settlement <b>Alt Name:</b> Pokainu Mezs <br /> Pos Accuracy: <b>4</b> Condition: <b>3</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.571039 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.075712<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/yzv_1_2.JPG" align="right" valign="top"></a>
+<br />
+                    Inside the Pokaini forest there are Standing stones, stones forming groups, piles, walls and rivers: the Pokaini Stone Agglomerates. These were the main reason why the Pokaini Forest is connected with...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=46180" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#2_r</styleUrl>   <Point>     <coordinates>23.075712,56.571039,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Barrow Cemetery]]></name><open>0</open>
+<Placemark>   <name>Grobina</name>   <description><![CDATA[
+        <b>Type:</b> Barrow Cemetery <br /> Pos Accuracy: <b>4</b> Condition: <b>3</b> (5 is best)   Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.53144 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.18973<br />
+                    Barrow Cemetery in Latvia. Group of barrow cemeteries near Grobina belongs to the most important archaeological sites in Latvia. The barrows are dated for 5th - 13th century AC, but during the excavat...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=28500" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#4_g</styleUrl>   <Point>     <coordinates>21.18973,56.53144,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Holed Stone]]></name><open>0</open>
+<Placemark>   <name>Meldzeres dobumakmens</name>   <description><![CDATA[
+        <b>Type:</b> Holed Stone <b>Alt Name:</b> Hollow Stone of Meldzeres <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.4982 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.9581<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7998.r9.JPG" align="right" valign="top"></a>
+<br />
+                    Cup stones are not rare on the Eastern shores of the Baltic Sea.  They all have approximately the same dimensions.  They are considered precious enough testimonies of the past for some of them to be n...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36897" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#14_r</styleUrl>   <Point>     <coordinates>21.9581,56.4982,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Marker Stone]]></name><open>0</open>
+<Placemark>   <name>Jaunannas Akmen</name>   <description><![CDATA[
+        <b>Type:</b> Marker Stone <b>Alt Name:</b> Stone of Jaunanna <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.25045 &nbsp;&nbsp;&nbsp;<b>Long</b>: 27.06125<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF6626.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    About 25 km South of Alūksne, along road P.43, a marker stone stands at the start of the gravel road leading to Jaunanna.  It doesn't have any particular name ; Pagasts means Parish.. It may be a dec...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36893" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#67_r</styleUrl>   <Point>     <coordinates>27.06125,57.25045,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kapsēdes dižakmens</name>   <description><![CDATA[
+        <b>Type:</b> Marker Stone <b>Alt Name:</b> Big Stone of Kapsede <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.58675 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.10865<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF8053.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    One of the largest boulders of Latvia.. Sitting at a former major crossroads near Kapsēde (North of Liepāja) – or rather being the reason why several ancient roads converged to this monumental lan...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36943" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#67_r</styleUrl>   <Point>     <coordinates>21.10865,56.58675,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Vībiņi akmens</name>   <description><![CDATA[
+        <b>Type:</b> Marker Stone <b>Alt Name:</b> Vibini Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.4855 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.8812<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF8042.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    Former marker stone (or "natural" stone used as such in the course of times), along gravel road P106 near Vībiņi in Kurzeme, Latvia.. The stone is not listed.  Such an obvious landmark was so easily...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36939" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#67_r</styleUrl>   <Point>     <coordinates>21.8812,56.4855,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Modern Stone Circle etc]]></name><open>0</open>
+<Placemark>   <name>Kolkasrags, Jūras Panemtiem</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <b>Alt Name:</b> Cape Kolka, Monument to the Victims of the Sea <br /> Pos Accuracy: <b>4</b> Condition: <b>5</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.7578 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.6022<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF8770.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    Modern monument erected as close as possible to the very tip of Cape Kolka, the limit between the Baltic Sea and the Gulf of Riga. . This remote, unspoiled location, off the beaten tracks, offers wind...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37009" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>22.6022,57.7578,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Lāča Darzs</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <b>Alt Name:</b> Bear Garden <br /> Pos Accuracy: <b>4</b> Condition: <b>5</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.1303 &nbsp;&nbsp;&nbsp;<b>Long</b>: 27.258<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF6714.Balvi.corr.r9.JPG" align="right" valign="top"></a>
+<br />
+                    Lāča Darzs = Bear Garden, a recreational park downtown Balvi. The park comprises 23 modern (1990) megalithic compositions, kind of modern dolmens, all made of various boulders from the region.. Quit...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36887" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>27.258,57.1303,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Sigulda Pils</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.16442 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.85099<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF6119_-_Sigulda.r8.cr.JPG" align="right" valign="top"></a>
+<br />
+                    Modern Monolith in Latvia. Decorative stone in the garden of Siguldas Jaunā pils (Sigulda's New Castle).<br/>
+June 2014....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36008" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>24.85099,57.16442,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Stone Head of Salaspils replica</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.9498 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.1089<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF9139.Riga.r8.JPG" align="right" valign="top"></a>
+<br />
+                    Sculptured Stone in Latvia. A replica of the original "Stone Head of Salaspils".<br />
+The replica is set in a corner of Livu Laukums (Livu Square), Riga.  Being surrounded by trees, it is, alas, alw...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=35858" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>24.1089,56.9498,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Ūdrīši Akmeņi</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.9062 &nbsp;&nbsp;&nbsp;<b>Long</b>: 27.1038<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7292_-_Kraslava_West_of.r8.cr.JPG" align="right" valign="top"></a>
+<br />
+                    A modern creation : shall we call it a “Liberty” or “Art Nouveau” or "Jugendstil" dolmen ?. Along A6, between Krāslava and Daugavpils.  ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36915" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>27.1038,55.9062,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Vadakstes Valdnieku</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <b>Alt Name:</b> Ruler of Vadakste <br /> Pos Accuracy: <b>3</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.4007 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.3558<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7943_-_Ezere.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    The Ruler of Vadakste, a 4,2 m high monolith, was rolled up in the mid-19th century from the Vadakste River to its present location by order of the manor owner.  His name, von Toll, and the numbers "1...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36891" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>22.3558,56.4007,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Museum]]></name><open>0</open>
+<Placemark>   <name>Latvian National History Museum</name>   <description><![CDATA[
+        <b>Type:</b> Museum <br /> Pos Accuracy: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.950746 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.10102<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/StoneAxeMaker2.jpg" align="right" valign="top"></a>
+<br />
+                    Museum in Latvia.. The National History Museum of Latvia is the largest repository of Latvian material culture. It was founded in 1869 as the museum of the Riga Latvian Society. Since 1920 the Museum ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=28515" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#38_r</styleUrl>   <Point>     <coordinates>24.10102,56.950746,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Natural Stone / Erratic / Other Natural Feature]]></name><open>0</open>
+<Placemark>   <name>Kraukļu akmens</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Kraukli Stone, The Devil's Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.6285 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.1233<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7698.r9.JPG" align="right" valign="top"></a>
+<br />
+                    A modest and unassuming stone lying along a highway.. There are many legends about this stone, including stories about a hidden treasure. Archaeological excavations carried out in 1974 concluded that ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36950" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>25.1233,56.6285,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Medņu dižakmens</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Medni Giant Boulder <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.03429 &nbsp;&nbsp;&nbsp;<b>Long</b>: 27.16665<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF6744.r8.cr.JPG" align="right" valign="top"></a>
+<br />
+                    Other Natural Feature in Vidzeme, Latvia. A protected geological geomorphological object.  <br />
+Length 5.8m, width 5.3m, height 1.4m, perimeter 19.0m, most of the stone being under the ground.<br /...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=35863" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>27.16665,57.03429,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Meļķitāru Muldas akmens</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Melkitari Trough Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.6602 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.2029<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7621.r1280.JPG" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic in Latvia. A huge boulder, in a vast plain, visible from far away : a very scenic and quiet spot.<br />
+Easily accessible by a good 5 km gravel road in a straight line (perfec...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36902" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>25.2029,56.6602,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Nīcgales Lielais Akmens</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Big Boulder of Nicgale <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.15217 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.46179<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7504.Nicgale.r8.JPG" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Latvia. Largest boulder in Latvia, sitting on the clay bed of a glacial lake.<br />
+Length : 10.5 m, width : 10.4 m, height : 3.5 m, circumference :...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=35866" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>26.46179,56.15217,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pastmuižas Velnakmens</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Pastmuiza Devil's Stones <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.627 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.4554<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7592.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    Natural Stone in Latvia. Although the nearby fields are rich in boulders, these two ones have attracted a special attention due to the peculiar flat surface of one of them.  Legends about these two st...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36883" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>25.4554,56.627,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Stukmaņu Pētera akmens</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Pļaviņu Pētera akmens <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.6043 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.673<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7580.cr.r9.JPG" align="right" valign="top"></a>
+<br />
+                    A engraved Boulder mentioned in several legends.  It bears the Coat of Arms of the Archbishop Vangelis of Riga, 'terminus ante quem' 1437.  Used as a border stone for some time.  Mentioned in writing ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36881" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>25.673,56.6043,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Turaida Engraved Stone</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.18225 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.85056<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF6246_-_Turaida.r8.JPG" align="right" valign="top"></a>
+<br />
+                    Carving in Latvia. A little known and often overlooked stone, inside the castle of Turaida (build from the early 13th century onwards by the Livonian Brothers of the Sword).
+This ovoid stone, at the ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36014" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>24.85056,57.18225,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Vaiķu Laukakmens</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Vaiki Boulder <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.4254 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.07599<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF7536.Vaicu.r8.JPG" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Latvia. Listed Boulder. County : Zemgale.<br/>
+Along A6/E22, only 50 m on the West of the A6/E22 Daugavpils-Riga, between Livāni and Jēkabpils.  T...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=35868" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>26.07599,56.4254,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Vandzenes akmens (Stone of Vandzene)</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Tilgaļu Lielais akmens (Big Boulder of Tilgali) <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.3503 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.7228<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF8985.r1024.JPG" align="right" valign="top"></a>
+<br />
+                    The fourth largest stone in Latvia. . The stone had been demolished in former times by splitting pieces off its side ; that is why its form is irregular and angular.<br />
+Easily accessible.<br />
+I...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36996" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>22.7228,57.3503,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Rock Art]]></name><open>0</open>
+<Placemark>   <name>Davini Great stone (Daviņu Lielais akmens)</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 57.626953 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.21194<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/davini_great_stone7.jpg" align="right" valign="top"></a>
+<br />
+                    Cup and Ring marks / Rock Art in Latvia. Location and approach: Davini Great stone is a cup marked boulder, located in Bērzaine parish (pagasts) of Kocēni local municipality (novads), Northern Latvi...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=26506" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_r</styleUrl>   <Point>     <coordinates>25.21194,57.626953,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kapsēdes Rudais akmens</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <b>Alt Name:</b> Purple Stone of Kapsede <br /> Pos Accuracy: <b>4</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.5937 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.1159<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF8099.r9.JPG" align="right" valign="top"></a>
+<br />
+                    The Purple Stone of Kapsede was investigated as early as 1861 because of as many as 7 cup marks going back to most likely the bronze age.  Now a protected archaeological site. . Leave your car here : ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36949" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_r</styleUrl>   <Point>     <coordinates>21.1159,56.5937,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Ulmales upurakmens</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <b>Alt Name:</b> Ulmale Sacrificial Stone <br /> Pos Accuracy: <b>4</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.9317 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.2813<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/flk4498020670.jpg" align="right" valign="top"></a>
+<br />
+                    Known as a cult or cultual stone since the 13th century, and rather impressive. . The diameter of the bowl is 60cm, its depth about 15cm. Bowl-shape hollow stones are considered ancient cult stones in...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=36957" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_r</styleUrl>   <Point>     <coordinates>21.2813,56.9317,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Sculptured Stone]]></name><open>0</open>
+<Placemark>   <name>Stone Head of Salaspils</name>   <description><![CDATA[
+        <b>Type:</b> Sculptured Stone <br /> Pos Accuracy: <b>4</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.94854 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.10433<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Latvia/thumb/DSCF9159.r8.JPG" align="right" valign="top"></a>
+<br />
+                    Sculptured Stone in Latvia. . It may have been sculpted between the 16th and the 18th centuries, when many pagan idol sculptures have been created in Latvia, then hidden away.<br />
+Found mid-19th ce...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=35853" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#44_r</styleUrl>   <Point>     <coordinates>24.10433,56.94854,0</coordinates>   </Point>  </Placemark></Folder></Document>
+</kml>

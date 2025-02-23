@@ -145,7 +145,7 @@ if __name__ == "__main__":
         print("Usage: python megp_kml_convert.py <kml_file> <sqlite_file> <country> <mode>\n")
         print("examples:")
         print("- python megp_kml_convert.py MegP_Netherlands.kml ancients.sqlite netherlands add")
-        print("- python megp_kml_convert.py MegP_Earth.kml ancients.sqlite england new")
+        print("- python megp_kml_convert.py xxxMegP_Earth.kml ancients.sqlite england new")
 
         sys.exit(1)
 

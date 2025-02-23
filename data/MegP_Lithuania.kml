@@ -1,0 +1,2537 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><kml xmlns="http://earth.google.com/kml/2.0">
+ <Document>
+ <description>Megalithic Portal data for Google Earth: Lithuania In-depth information on megaliths, prehistoric and ancient sites of all sorts can be found at The Megalithic Portal and Megalith Map: http://www.megalithic.co.uk . Follow the links for more details of each location. Data is copyright and not to be re-used outside of Google Earth without permission (but you are welcome to ask). This data is provided without any warranty or guarantee of fitness for purpose, and is for personal use only.</description>
+  <name>Megalithic Portal: Lithuania</name>
+    <Style id="1_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_g">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_g.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_r">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_r.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="2_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="3_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="4_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="5_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="6_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="7_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="8_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>0</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="9_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="10_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="11_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="12_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="13_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="14_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="15_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="16_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="17_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="18_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="19_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="20_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>32</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="21_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="22_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="23_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="24_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="25_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="26_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="27_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="28_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="29_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="30_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>64</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="31_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="32_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="33_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="34_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="35_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="36_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="37_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="38_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="39_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="40_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>96</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="41_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="42_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="43_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="44_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="45_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="46_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="47_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="48_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>128</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="58_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="59_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>    
+    <Style id="60_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>288</x>
+        <y>160</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="61_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="62_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="63_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+     <Style id="64_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>96</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="65_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>128</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="66_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>160</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="67_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>192</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="68_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>224</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="69_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>256</x>
+        <y>192</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034310_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>0</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034311_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>32</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="1050034312_y">
+      <IconStyle>
+        <Icon>
+	<href>http://www.megalithic.co.uk/images/ge_icons_y.png</href>
+        <x>64</x>
+        <y>224</y>
+        <w>32</w>
+        <h>32</h>
+        </Icon>
+      </IconStyle>
+    </Style>               
+    <Folder><name><![CDATA[Artificial Mound]]></name><open>0</open>
+<Placemark>   <name>Apuolės piliakalnis</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.2464 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.6781<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/ufe_129183136.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Lithuania : a former hill-fort (piliakalnis), well known locally, where celebrations are held yearly.. Signposted along road 4603 at (56.2406,21.6725) -- see photo.<br />
+A 600 m ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43988" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>21.6781,56.2464,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Bambininkų piliakalnis</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <b>Alt Name:</b> Dembavaragio piliakalnis <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.4281 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.6035<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/opt_DSCF5806.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Lithuania. Artificial mound dated late 1st millennium - early 2nd millennium AD.  <br />
+It derives its name from being built on the left bank of the small Bambena river, which fl...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37985" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>23.6035,54.4281,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Padovinio piliakalnis</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.5095 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.4438<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/DSCF5872.cr.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Lithuania. An unmistakable and striking piliakalnis in a region counting plenty of such monuments.<br />
+ <br />
+After having gone through successive steps, the mound is listed a...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37989" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>23.4438,54.5095,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Riečių piliakalnis</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>2</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.477 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.6887<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/yqd_DSCF5785.jpg" align="right" valign="top"></a>
+<br />
+                    Riečių Piliakalnis (Mound of Riečiai) goes back to the first millennium AD. It is associated with legends, summarized on the information board.. This Piliakalnis was and still is very vast indeed. ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37983" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>23.6887,54.477,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Šakališkių piliakalnis</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <b>Alt Name:</b> Šakališkės mound <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.554 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.689<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/cse_DSCF5764.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial mound in Lithuania. The Eastern shores of the Baltic Sea count many artificial mounds (piliakalnis, plural piliakalniai in Lithuanian).<br />
+Seen under the proper angle, the characteristi...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37975" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>23.689,54.554,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Senosios Įpilties piliakalnis</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <b>Alt Name:</b> (Translation) Mound of Old Įpiltis <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.1258 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.249<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/ddq_DSCF6949.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial Mound in Lithuania. Mound accessible by a pedestrian bridge over a little steam flowing from the nearby source under Senosios Įpilties akmuo.<br />
+As usual, it pays to see a piliakalnis ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38034" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>21.249,56.1258,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Ukmergės piliakalnis</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.2497 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.7688<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/oha_121699132.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial mound (hillfort) in Lithuania. Listed hillfort (artificial mound) in the town of Ukmergė.<br />
+Signposted at various places in Ukmergė.<br />
+Best view in the morning from the North (t...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43950" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>24.7688,55.2497,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Varnupių piliakalnis</name>   <description><![CDATA[
+        <b>Type:</b> Artificial Mound <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>5</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.49 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.5345<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/sof_DSCF5849a.jpg" align="right" valign="top"></a>
+<br />
+                    Artificial mound in Lithuania . A well known and much photographed mound, where historical re-enactment are held each summer.<br />
+<br />
+Varnupių piliakalnis is signposted along road 2605 at (54....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37988" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#3_r</styleUrl>   <Point>     <coordinates>23.5345,54.49,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Burial Chamber or Dolmen]]></name><open>0</open>
+<Placemark>   <name>Lopaičiai Dolmen</name>   <description><![CDATA[
+        <b>Type:</b> Burial Chamber or Dolmen <br /> Pos Accuracy: <b>4</b> Condition: <b>2</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.7537342 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.1572302<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/20_dolmenas_lopaiciuose.jpg" align="right" valign="top"></a>
+<br />
+                    Lopaičiai dolmen consists of two upright stones supporting a massive capstone, which forms a chamber or tomb. The capstone is estimated to weigh around 20 tons, making it one of the largest in Lithua...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=59164" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#6_r</styleUrl>   <Point>     <coordinates>22.1572302,55.7537342,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Holed Stone]]></name><open>0</open>
+<Placemark>   <name>Kilėviškių akmuo su dubeniu</name>   <description><![CDATA[
+        <b>Type:</b> Holed Stone <b>Alt Name:</b> Leliūnų II akmuo su dubeniu <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.4754 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.3933<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/quv_121700774.jpg" align="right" valign="top"></a>
+<br />
+                    Holed Stone in Lithuania. A stone with a bowl.  <br />
+<br /> 
+Exhibited in the front garden of the Ceramic museum of Leliūnai (alas closed on Mondays).<br />
+These stones are rather frequent in t...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43657" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#14_r</styleUrl>   <Point>     <coordinates>25.3933,55.4754,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Lūžų akmuo su dubeniu</name>   <description><![CDATA[
+        <b>Type:</b> Holed Stone <br />Condition: <b>4</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 55.6417 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.845<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/Luzu_akmuo_2.jpg" align="right" valign="top"></a>
+<br />
+                    Holed Stone in Lithuania. Ritual akmuo su debeniu (stone with a bowl) kept in its original place.<br />
+The site was excavated in 1971 and dated 16th – 17th century.  <br />
+Source : Wikipedia.  <...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43667" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#14_r</styleUrl>   <Point>     <coordinates>25.845,55.6417,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Šilalės Aukuro akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Holed Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.15418 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.56255<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/121646327_Šilals_Aukuro_akmuo.jpg" align="right" valign="top"></a>
+<br />
+                    Altar Stone in Lithuania. A ritual holed stone, well known largely because it is easily accessible, near the 
+Large Stone of Šilalė (for more info about the location, please refer to that page).
+<...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40669" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#14_r</styleUrl>   <Point>     <coordinates>21.56255,56.15418,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Sūdėnų akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Holed Stone <b>Alt Name:</b> Sūdėnų akmuo su plokščiadugniu dubeniu <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.0789 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.2112<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/DSCF6880.cr.jpg" align="right" valign="top"></a>
+<br />
+                    A Bowl-shaped stone, in Lithuania, whose date and usage are thinly documented.<br />
+A comparison with rock-cut basin, a frequent feature along the Atlantic (e.g. North Portugal, North-West Spain), a...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38008" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#14_r</styleUrl>   <Point>     <coordinates>21.2112,56.0789,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Zarasų akmuo su dubeniu</name>   <description><![CDATA[
+        <b>Type:</b> Holed Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.4756 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.3932<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/fwg_128618427.jpg" align="right" valign="top"></a>
+<br />
+                    Holed Stone in Lithuania. Ritual holed stone found around Zarasai, a town 50 km to the NE towards Daugavpils (Latvia), just before the border.<br />
+Exhibited on the front garden of the Ceramic Museu...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43664" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#14_r</styleUrl>   <Point>     <coordinates>25.3932,55.4756,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Žemaičių Kalvarija</name>   <description><![CDATA[
+        <b>Type:</b> Holed Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.1098 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.0116<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/uuc_121649726.jpg" align="right" valign="top"></a>
+<br />
+                    Bowl-shaped stones in Lithuania. Four bowl shaped stones (Keturi Akmenys su dubenėliais).<br />
+[Akmenys is the plural of Akmuo, stone ; dubenėliais means bowls.]<br />
+<br />
+Exhibited in the na...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38013" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#14_r</styleUrl>   <Point>     <coordinates>22.0116,56.1098,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Marker Stone]]></name><open>0</open>
+<Placemark>   <name>Perlojos akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Marker Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.21723 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.41286<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/vbe_DSCF5050.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Lithuania. A boulder utilized to bear the coat of arms of Perloja (which was missing as recently as 2013 but has been replaced since then), and the s...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37982" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#67_r</styleUrl>   <Point>     <coordinates>24.41286,54.21723,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Rambyno kalno akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Marker Stone <b>Alt Name:</b> Translation : Rambynas Mount's Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.0875 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.0214<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/Rambynas_hill_Wojsyl_2005.jpg" align="right" valign="top"></a>
+<br />
+                    Modern Marker Stone in Lithuania. The stone erected at the very top of Rambynas Mount, here filed as (modern) marker stone, bears the incised Pillars of Gidiminias, an ubiquitous symbol of the reign o...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37997" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#67_r</styleUrl>   <Point>     <coordinates>22.0214,55.0875,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Vilkaviškio krašto akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Marker Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.63635 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.97702<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/jal_DSCF6053.jpg" align="right" valign="top"></a>
+<br />
+                    Modern Marker Stone in Lithuania. A modern marker stone : a typical sort of stone, albeit rare, exhibiting a dense network of veins.<br />
+<br />
+Stone of regional provenance, erected at the entranc...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37995" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#67_r</styleUrl>   <Point>     <coordinates>22.97702,54.63635,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Modern Stone Circle etc]]></name><open>0</open>
+<Placemark>   <name>Dotnuvo akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.365 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.8896<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/mre_121711599.jpg" align="right" valign="top"></a>
+<br />
+                    Modern Stone Circle / Monolith in Lithuania. Obviously not a "native" boulder, but one of the region brought in the middle of the village to mark its centre and proclaim the date of the first mention/...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44078" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>23.8896,55.365,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Lithuanian Millenium Stone</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.7621 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.8702<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/crk_121570733.jpg" align="right" valign="top"></a>
+<br />
+                    Lithuanian Millennium Stone, erected in 2009.. Commemorating the 1000th anniversary of the the first written mention of Lithuania, in a medieval German manuscript : the Annals of Quedlinburg, in March...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=44064" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>22.8702,54.7621,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Nemenčinės Bilith</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.8878 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.5463<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/uvb_121715393.jpg" align="right" valign="top"></a>
+<br />
+                    Modern Stone Circle / Monolith in Lithuania. A modern bilith erected along road 102, at the entrance of a track leading to a farmstead....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43689" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>25.5463,54.8878,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Santakos parkas</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <b>Alt Name:</b> Confluence Park <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.8983 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.8776<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/dscf7818_by_t1sup-d9juf0v.jpg" align="right" valign="top"></a>
+<br />
+                    Modern Monolith in Santakos parkas (Confluence Park), Kaunas, Lithuania.. Santakos parkas (Confluence Park) was created in 1993, at the confluence of the two most important rivers of Lithuania : Nemun...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40841" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>23.8776,54.8983,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Tauragė's 500th Anniversary Stone</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <b>Alt Name:</b> Tauragės Rotary Stone <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.2516 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.2798<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/Taurage_Rotary_akmuo.jpg" align="right" valign="top"></a>
+<br />
+                    Modern Stone in Lithuania. Stone erected in a public park on the left bank of the Jūra river, presented by the Rotary Club to celebrate the 500th anniversary of the city of Tauragė.<br />
+<br />
+W...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38003" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>22.2798,55.2516,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Virmėnų akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Modern Stone Circle etc <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.0664 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.3819<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/dscf7374_by_t1sup-d9js3wa.jpg" align="right" valign="top"></a>
+<br />
+                    Modern Stone Circle / Monolith in Lithuania. An unexpected construction in the "middle of nowhere" : a small stone cemented on top of a larger one with a slab in-between.<br />
+<br />
+No idea what i...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40819" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#60_r</styleUrl>   <Point>     <coordinates>22.3819,56.0664,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Museum]]></name><open>0</open>
+<Placemark>   <name>Kretingos muziejus</name>   <description><![CDATA[
+        <b>Type:</b> Museum <b>Alt Name:</b> Museum / Winter Garden of Kretinga <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.8998 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.2489<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/dscf6788_by_t1sup-d9jvcrs.jpg" align="right" valign="top"></a>
+<br />
+                    Kretingos muziejus
+(Museum of Kretinga, Lithuania).. Kretingos muziejus (Museum of Kretinga) preserves canvas, furniture, painted wooden sculptures, "chinas", numismatics, and a large archaeological ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40892" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#38_r</styleUrl>   <Point>     <coordinates>21.2489,55.8998,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Mosėdis akmenų muziejus</name>   <description><![CDATA[
+        <b>Type:</b> Museum <b>Alt Name:</b> Stones' Museum of Mosėdis <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.16527 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.57425<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/tbs_DSCF6987.jpg" align="right" valign="top"></a>
+<br />
+                    Stones Museum in Lithuania. A collection of stones covering all the ages of the Earth History (or nearly), having been selected all over the world (or nearly), are displayed in a vast park behind the ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38016" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#38_r</styleUrl>   <Point>     <coordinates>21.57425,56.16527,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Natural Stone / Erratic / Other Natural Feature]]></name><open>0</open>
+<Placemark>   <name>Auksūdžio akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> (Translation) Stone of Auksūdys <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.0577 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.2782<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/ijo_121641376.jpg" align="right" valign="top"></a>
+<br />
+                    A random stone along Road 218.  Such remarkable stones emerging from a generally quite flat landscape were used as landmarks. . The track now branching off the main road leads to a farmstead.  Auksūd...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40532" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.2782,56.0577,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Bajorų akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Stone of Bajorai <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.2094 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.187<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/ydk_129154128.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone along the edge of the national road 102, leading to Vilnius (LT).. Random boulder used in the past as a landmark along an ancient track which evolved with time into a major road, being n...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43957" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>26.187,55.2094,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Barkelių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.01648 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.30375<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/121602529_Barkeli_akmuo.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Lithuania. Random stone along road 2323.<br />
+Barkeliai is the name of the spot, a couple of farmsteads.
+While there, do spare some time to visit ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43615" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.30375,56.01648,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Barstyčių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Puokės akmuo <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.1906 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.8967<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/dscf7235_by_t1sup-d9jmvze.jpg" align="right" valign="top"></a>
+<br />
+                    The largest boulder of Lithuania.. Until 1957, when the boulder first drew attention, only a ridge was sticking out on the surface.  It was then decided to dig it completely. <br />
+Today, a curtain ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40686" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.8967,56.1906,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Benaičių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Kulių Bobelė <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.0968 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.2743<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/nnf_121641755.jpg" align="right" valign="top"></a>
+<br />
+                    A legendary stone.  Some legends have it that the stone is haunted.. First published in 1964 as geological natural monument, it was subsequently listed as national archaeological monument.  Finally, t...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40749" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.2743,56.0968,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Didysis Dzūkijos akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Vangelonių akmuo <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.2724 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.0202<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/Didysis_Dzkijos_akmuo.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in . One of the largest boulders in Lithuania.<br />
+<br />
+If you come by car from far away, set your navigator to the village of Nemunaitis, where y...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37959" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>24.0202,54.2724,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Didžiųjų Vankių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.6241 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.3279<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/flk5699530266.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone in Lithuania. A well known boulder, signposted along the main road.  <br />
+Its peculiar shape, vaguely comparable to a whale, may have inspired legends.<br />
+Due to its size, and sta...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38006" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>22.3279,55.6241,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Duobgirių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Road 4613 Akmuo II <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.0594 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.3801<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/121683180_Road_4613_-_akmuo_II.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Lithuania. In the past, boulders were usually used as landmarks along a road, or at a cross-roads or T-junction.<br />
+The main feature of this ston...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43669" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>22.3801,56.0594,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Girelių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.7588 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.5461<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/xny_128578041.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Lithuania. Girelių akmuo.<br />
+A long way on a rather bumpy field track, from Elektrėnai.<br />
+Having served as landmarks in the past, these st...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43623" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>24.5461,54.7588,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Gudelių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.5276 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.6804<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/vit_DSCF5779.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Lithuania. Yet another random boulder previously used as landmark at the T-junction of ancient paths, having evolved into today's roads 181 and 2618....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37974" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>23.6804,54.5276,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Juozapavos akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.13885 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.59256<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/qop_121697807.jpg" align="right" valign="top"></a>
+<br />
+                    A huge boulder unearthed in 1976 during the construction of the nearby bridge over River Šventoji, in Vepriai.. The place of Vepriai has delivered traces of Stone Age settlement (the artefacts being ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40865" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>24.59256,55.13885,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Karalgirio akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.1365 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.6882<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/zsi_121712774.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Lithuania. Random boulder on the southern edge of road 1925.<br />
+Anciently used as a landmark along a path which became a track then a road, it is...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43626" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>23.6882,55.1365,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Kriaučiaus akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.5455 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.7511<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/DSCF6286.corr.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone in Lithuania. One of the largest boulders in Lithuania, set in a splendid landscape, away from any town, road, etc.<br />
+Absolute quietness.<br />
+<br />
+See photo in the gallery for...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38004" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>22.7511,55.5455,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Luknių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.236 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.4443<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/dscf6960_by_t1sup-d9jqjtv.jpg" align="right" valign="top"></a>
+<br />
+                    Random stone, anciently used as a landmark for the ongoing trees-lined road to Luknės.. Today, it has kept its aura as decorative standing stone along the Road 218 ; and a new road to Luknės has bee...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40718" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.4443,56.236,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Mantviliškų akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.20373 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.97114<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/yvg_DSCF5021.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in Lithuania. An erratic boulder at a T-junction which, like most of them served in the past to mark a path, then a track, then a road.  <br />
+<br />...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37972" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>24.97114,54.20373,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Marijampolio akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.5324 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.3227<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/nei_DSCF5010.jpg" align="right" valign="top"></a>
+<br />
+                    Marijampolio akmuo is a big erratic boulder near Vilnius (Lithuania). It is easily accessible from A15/E85 south of Vilnius (10 km from VNO).   . The oldest photo available (alas copyrighted) goes bac...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37963" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>25.3227,54.5324,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Medomiškių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.056 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.21435<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/rqg_DSCF6830.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone in Lithuania, used as marker stone.. Random stone at an T-junction to serve as a landmark before the advent of road maps, let alone navigators.  This practice was extremely common.  In t...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38014" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.21435,56.056,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Pelėkių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Pelėkių akmuo su dubenėliais ; Velnio akmuo <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.07646 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.2181<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/uvj_DSCF6846.jpg" align="right" valign="top"></a>
+<br />
+                    A random "natural" stone in Lithuania.. Pelėkių akmuo su dubenėliais, its complete name, means "Stone of Pelėkiai with bowls".<br />  Pelėkiai is a nearby place counting just a few homesteads.<br...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38010" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.2181,56.07646,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Požerė akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.62515 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.30454<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/121592781_Pozere.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone in Lithuania. The tip of a boulder sticking out of the ground, and giving the impression of being deeply buried.<br />
+<br />
+Road description.  Access by road 160 up to (55.6321, 22.2...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38007" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>22.30454,55.62515,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Puntuko akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Monument to Darius & Girėnas <br /> Pos Accuracy: <b>5</b> Condition: <b>5</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.4841 &nbsp;&nbsp;&nbsp;<b>Long</b>: 25.0596<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/bsx_121699496.jpg" align="right" valign="top"></a>
+<br />
+                    The most famous, most visited, and second largest boulder in Lithuania.. A boulder converted in a memorial to the pilots Steponas Darius (1896-1933) and Stasys Girėnas (1893-1933) who attempted and n...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40696" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>25.0596,55.4841,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Senosios Įpilties akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Aukuro akmeniu, Aukuro akmuo    <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.1267 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.2479<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/uum_DSCF6947.jpg" align="right" valign="top"></a>
+<br />
+                    Legendary stone in Lithuania. Seemingly, the stone was buried when it was originally noticed.  It was later excavated.  The stone covers a source regarded as miraculous. Wooden sculpture is a traditio...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=38022" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.2479,56.1267,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Šilalės Didysis akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> (translation) Large Stone of Šilalė <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.1542 &nbsp;&nbsp;&nbsp;<b>Long</b>: 21.5624<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/121645758_Šilals_Didysis_akmuo.jpg" align="right" valign="top"></a>
+<br />
+                    The fifth largest boulder in Lithuania, and quite easy to reach. . Only the tip (about 2,5 m) emerged from the ground when it was decided in 1970 to excavate it.  But already before WWII, it was a fav...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40632" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>21.5624,56.1542,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Šventos akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.1844 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.1911<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/qyn_129176891.jpg" align="right" valign="top"></a>
+<br />
+                    Erratic boulder along Road 102, which links the thinly populated North-Eastern part of Lithuania to the capital Vilnius.. June 2015....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43972" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>26.1911,55.1844,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Tryškių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 56.0562 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.5825<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/dscf7326_by_t1sup-d9jrywj.jpg" align="right" valign="top"></a>
+<br />
+                    A "natural" stone from the region, brought onto the main square of the village of Tryškiai, in April 2012.. The Cult of Stones in the Baltic States is to be reckoned with : "every" self-respecting fr...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=40772" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>22.5825,56.0562,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Vardžiukiemio akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>3</b>  Access: <b>4</b>  (5 is best)<br />
+                    <b>Lat:</b> 55.4909 &nbsp;&nbsp;&nbsp;<b>Long</b>: 26.2312<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/nvb_129154211.jpg" align="right" valign="top"></a>
+<br />
+                    Erratic Stone in Lithuania.<br />
+An eye-catching boulder on the edge of the road 102, visible from far away : a now disused landmark along a track which, with time, became a major road in the thinly...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=43967" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>26.2312,55.4909,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Varnupių akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>3</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.4884 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.5327<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/esx_DSCF5847.jpg" align="right" valign="top"></a>
+<br />
+                    A "natural" stone exhibiting two peculiar holes (proclaimed shaped like horse-shoes) in its upper surface. . Various legends imply the existence of a (very) putative treasure.  <br />
+<br />
+Varnupi...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37987" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>23.5327,54.4884,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Velnio akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <b>Alt Name:</b> Švendubrės akmuo <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>4</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 53.9852 &nbsp;&nbsp;&nbsp;<b>Long</b>: 23.929<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/Velnio_akmuo.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone / Erratic / Other Natural Feature in . Velnio Akmuo (Devil's Stone) is the tenth largest random stones in Lithuania.
+<br />
+It stands West of Švendubrė, South of the famous spa resor...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37956" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>23.929,53.9852,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Vištyčio akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Natural Stone / Erratic / Other Natural Feature <br /> Pos Accuracy: <b>5</b> Condition: <b>4</b> (5 is best)   Ambience: <b>5</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.4702 &nbsp;&nbsp;&nbsp;<b>Long</b>: 22.705<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/lqn_DSCF5992.jpg" align="right" valign="top"></a>
+<br />
+                    Natural Stone in Lithuania. Third largest boulder in Lithuania, very well known and photographed, and very easily accessible by car.<br />
+<br />
+That said, it really stands out of the major routes ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37990" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#36_r</styleUrl>   <Point>     <coordinates>22.705,54.4702,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Rock Art]]></name><open>0</open>
+<Placemark>   <name>Laukagalio akmuo su dubenėliais</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <b>Alt Name:</b> Devils´s throne <br /> Pos Accuracy: <b>3</b> Condition: <b>3</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 54.908916 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.687391<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/Laukagalis._Didysis_akmuo_October_2014_Vilensi.JPG" align="right" valign="top"></a>
+<br />
+                    Rock Art in Paparciai (Lithuania).. Probable ancient (Iron Age) altair stone with some human made cup marks on its surface....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37991" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_r</styleUrl>   <Point>     <coordinates>24.687391,54.908916,0</coordinates>   </Point>  </Placemark>
+<Placemark>   <name>Zasliai Footprint Stone</name>   <description><![CDATA[
+        <b>Type:</b> Rock Art <b>Alt Name:</b> Laukagalio akmuo su žmogaus pėda <br /> Pos Accuracy: <b>3</b> Condition: <b>3</b> (5 is best)   (5 is best)<br />
+                    <b>Lat:</b> 54.901693 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.704583<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/Laukagalio_akmuo_su_žmogaus_pda.JPG" align="right" valign="top"></a>
+<br />
+                    Rock Art in Lithuania. Cup-marked stone with a footprint on its surface....<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=31127" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#29_r</styleUrl>   <Point>     <coordinates>24.704583,54.901693,0</coordinates>   </Point>  </Placemark></Folder><Folder><name><![CDATA[Standing Stone (Menhir)]]></name><open>0</open>
+<Placemark>   <name>Kalesninkų akmuo</name>   <description><![CDATA[
+        <b>Type:</b> Standing Stone (Menhir) <br /> Pos Accuracy: <b>5</b> Condition: <b>3</b> (5 is best)   Ambience: <b>3</b>  Access: <b>5</b>  (5 is best)<br />
+                    <b>Lat:</b> 54.19227 &nbsp;&nbsp;&nbsp;<b>Long</b>: 24.80205<img src="http://www.megalithic.co.uk/a558/a312/gallery/Eastern_Europe/Lithuania/thumb/yqs_DSCF5030.jpg" align="right" valign="top"></a>
+<br />
+                    A random boulder obviously set upright to be used as a landmark along an ancient way which, with time, widened and asphalted, became upgraded to the present road 127.. Being at the border between two ...<b>.</b> (c) Meg. Portal contributors.<br />
+		     <a href="http://www.megalithic.co.uk/article.php?sid=37965" >Link To More Information</a><br />
+                    ]]></description>    <styleUrl>#21_r</styleUrl>   <Point>     <coordinates>24.80205,54.19227,0</coordinates>   </Point>  </Placemark></Folder></Document>
+</kml>
