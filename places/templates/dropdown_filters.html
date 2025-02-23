@@ -15,3 +15,13 @@
             {% endfor %}
         </select>
     </form>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var placeTypeSelect = document.getElementById("place_type");
+            if (placeTypeSelect.options.length === 2) {  // 1 actual option + 1 default empty option
+                placeTypeSelect.selectedIndex = 1; // Select the only available option
+                document.getElementById("filterForm_xxx").submit(); // Auto-submit the form
+            }
+        });
+    </script>

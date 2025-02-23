@@ -56,6 +56,11 @@ class MapView(ListView):
             # only load the types that are valid for this country
             types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
 
+        if len(types) == 1:
+            # only 1 type, so select it
+            place_type = str(types[0])
+            self.request.session['place_type'] = place_type
+
         context['types'] = types
         context['place_type'] = place_type
 
