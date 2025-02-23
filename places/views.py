@@ -50,19 +50,22 @@ class MapView(ListView):
         context['countries'] = countries
         context['country'] = country
 
-        #types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
-        types = Place.objects.values_list('type', flat=True).distinct()
+        if country == 'All':
+            types = Place.objects.values_list('type', flat=True).distinct()
+        else:
+            # only load the types that are valid for this country
+            types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
+
         context['types'] = types
         context['place_type'] = place_type
 
         return context
 
-def about(request):
+def welcome(request):
     """
-    about page
+    welcome page
     """
-
-    return render(request,'about.html')
+    return render(request,'welcome.html')
 
 @login_required
 def reload_data(request):
