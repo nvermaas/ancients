@@ -26,7 +26,7 @@ def search_records(country, search):
 def get_current_filter_values(request):
     # first check the dropdown buttons
     # when they are changed, put the new value on the session... otherwise read the old value from the session
-    country = request.GET.get('country', "Netherlands")
+    country = request.GET.get('country', None)
     if country:
         request.session['country'] = country
     else:
@@ -35,8 +35,11 @@ def get_current_filter_values(request):
         except:
             country = "Netherlands"
             request.session['country'] = country
+    # if all else fails
+    if not country:
+        country = "Netherlands"
 
-    place_type = request.GET.get('place_type', "Stone Circle")
+    place_type = request.GET.get('place_type', None)
     if place_type:
         request.session['place_type'] = place_type
     else:
@@ -45,6 +48,9 @@ def get_current_filter_values(request):
         except:
             place_type = "Stone Circle"
             request.session['place_type'] = place_type
+    # if all else fails
+    if not place_type:
+        place_type = "Stone Circle"
 
     search = request.GET.get('ancients_search_box', None)
     if not search:

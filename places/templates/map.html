@@ -2,7 +2,7 @@
 {% load static %}
 
 {% block myBlock %}
-    {% include 'buttonbar.html' %}
+    {% include 'dropdown_filters_map.html' %}
     {{ markers|json_script:"markers-data" }}
 
     <div id="map"></div>
