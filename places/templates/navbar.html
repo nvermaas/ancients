@@ -1,0 +1,39 @@
+      <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+
+            <!-- Header -->
+            <div class="navbar-header">
+                <a class="navbar-brand" href="{% url 'places:index' %}"> <i class="fas fa-mound"></i>&nbsp; Ancients</a>
+            </div>
+
+            <!-- Items -->
+            <div class="collapse navbar-collapse" id="myTopNavBar">
+
+                 <ul class="nav navbar-nav navbar-left">
+                     <li>
+                         <a class="nav-link" href="{% url 'places:about' %}" target="_blank">Welcome</a>
+                     </li>
+                     <li>
+                         <a class="nav-link" href="{% url 'places:map' %}" target="_blank">Map</a>
+                     </li>
+                     <li class="">
+                         <td>
+                             {% include 'search.html' %}
+                         </td>
+                     </li>
+                 </ul>
+
+                 <ul class="nav navbar-nav navbar-right">
+                     <li>
+                         {% if user.is_superuser %}
+                             <a class="nav-link" href="{% url 'places:reload-data' %}">Reload Data</a>
+                         {%  endif %}
+                     </li>
+                    <li>
+                         <a class="nav-link" href="{% url 'admin:index' %}" target="_blank">Admin</a>
+                     </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>

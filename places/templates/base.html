@@ -27,36 +27,8 @@
     <link rel="icon" href="{% static 'favicon.png' %}">
   </head>
   <body>
+      {% include 'navbar.html' %}
 
-      <nav class="navbar navbar-inverse">
-        <div class="container-fluid">
-
-            <!-- Header -->
-            <div class="navbar-header">
-                <a class="navbar-brand" href="{% url 'places:index' %}"> <i class="fas fa-globe"></i>&nbsp; Ancients</a>
-            </div>
-
-            <!-- Items -->
-            <div class="collapse navbar-collapse" id="myTopNavBar">
-
-                 <ul class="nav navbar-nav navbar-right">
-                     <li>
-                         {% if user.is_superuser %}
-                             <a class="nav-link" href="{% url 'places:reload-data' %}">Reload Data</a>
-                         {%  endif %}
-                     </li>
-                    <li>
-                         <a class="nav-link" href="{% url 'admin:index' %}" target="_blank">Admin</a>
-                     </li>
-                     <li class="">
-                         <td>
-                             {% include 'search.html' %}
-                         </td>
-                     </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
 
     {% block myBlock %}
     {% endblock %}

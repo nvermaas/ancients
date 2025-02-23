@@ -57,6 +57,13 @@ class MapView(ListView):
 
         return context
 
+def about(request):
+    """
+    about page
+    """
+
+    return render(request,'about.html')
+
 @login_required
 def reload_data(request):
     """

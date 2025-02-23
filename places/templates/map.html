@@ -4,6 +4,7 @@
 {% block myBlock %}
     {% include 'buttonbar.html' %}
     {{ markers|json_script:"markers-data" }}
+
     <div id="map"></div>
 
     <script src="{% static 'map.js' %}"></script>
