@@ -148,7 +148,6 @@ def convert_kml(kml_filename,country):
     """
 
     records = []
-
     with open(kml_filename, 'r', encoding="ISO-8859-1") as f:
         doc = parser.parse(f)
         root = doc.getroot()
@@ -156,7 +155,7 @@ def convert_kml(kml_filename,country):
 
         for place in placemarks:
 
-            name = place.name.text
+            name = place.name.text.encode('ISO-8859-1').decode('utf-8')
             description = place.description.text
             coordinates = place.Point.coordinates.text
             latitude = float(coordinates.split(',')[1])
@@ -173,16 +172,19 @@ def convert_kml(kml_filename,country):
 
 def reload_data():
     # look for kml files in the data directory
+    fake_it = False
 
     directory = settings.DATA_ROOT
     print(directory)
 
     # clear the ancients.sqlite3 database (scary)
-    Place.objects.all().delete()
+    if not fake_it:
+        Place.objects.all().delete()
 
     # add an 'all' record for the selection dropdown boxes
-    place = Place(type="All",country="All")
-    place.save()
+    place = Place(type="All",country="All",latitude=0,longtitude=0)
+    if not fake_it:
+        place.save()
 
     for kml_file in glob.glob(os.path.join(directory, "*.kml")):
         filename = os.path.basename(kml_file)
@@ -207,4 +209,5 @@ def reload_data():
                     longtitude=record[5],
                     description=record[6],
                 )
-                place.save()
+                if not fake_it:
+                    place.save()

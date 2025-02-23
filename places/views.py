@@ -5,6 +5,50 @@ from django.views.generic import ListView, TemplateView
 from places.services import algorithms
 from django.contrib.auth.decorators import login_required
 
+def fill_context_data(request, context, add_features=False):
+    country, place_type, search = algorithms.get_current_filter_values(request)
+    places = algorithms.select_records(country, place_type)
+    context['places'] = places
+
+    # fill the type filter dropdown button (dropdown.html)
+    countries = Place.objects.values_list('country', flat=True).distinct()
+    context['countries'] = countries
+    context['country'] = country
+
+    if country == 'All':
+        types = Place.objects.values_list('type', flat=True).distinct()
+    else:
+        # only load the types that are valid for this country
+        types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
+
+    if len(types) == 1:
+        # only 1 type, so select it
+        place_type = str(types[0])
+        request.session['place_type'] = place_type
+
+    context['types'] = types
+    context['place_type'] = place_type
+
+    # add features for the map
+    if add_features:
+        features = algorithms.create_features(places)
+
+        if not features:
+            features = []
+
+        context["markers"] = {
+            "type": "FeatureCollection",
+            "crs": {
+                "type": "name",
+                "properties": {
+                    "name": "EPSG:4326"
+                }
+            },
+            "features": features
+        }
+
+    return context
+
 class ListView(ListView):
     model = Place
     #queryset = Place.objects.all()
@@ -22,28 +66,7 @@ class ListView(ListView):
             )
         )
 
-        country,place_type,search = algorithms.get_current_filter_values(self.request)
-        places = algorithms.select_records(country,place_type)
-        context['places'] = places
-
-        # fill the type filter dropdown button (dropdown.html)
-        countries = Place.objects.values_list('country', flat=True).distinct()
-        context['countries'] = countries
-        context['country'] = country
-
-        if country == 'All':
-            types = Place.objects.values_list('type', flat=True).distinct()
-        else:
-            # only load the types that are valid for this country
-            types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
-
-        if len(types) == 1:
-            # only 1 type, so select it
-            place_type = str(types[0])
-            self.request.session['place_type'] = place_type
-
-        context['types'] = types
-        context['place_type'] = place_type
+        context = fill_context_data(self.request,context)
 
         return context
 
@@ -61,44 +84,8 @@ class MapView(ListView):
             )
         )
 
-        country,place_type,search = algorithms.get_current_filter_values(self.request)
-        places = algorithms.select_records(country,place_type)
+        context = fill_context_data(self.request, context, add_features=True)
 
-
-        features = algorithms.create_features(places)
-
-        if not features:
-            features = []
-
-        context["markers"] = {
-          "type": "FeatureCollection",
-          "crs": {
-            "type": "name",
-            "properties": {
-              "name": "EPSG:4326"
-            }
-          },
-          "features": features
-        }
-
-        # fill the type filter dropdown button (dropdown.html)
-        countries = Place.objects.values_list('country', flat=True).distinct()
-        context['countries'] = countries
-        context['country'] = country
-
-        if country == 'All':
-            types = Place.objects.values_list('type', flat=True).distinct()
-        else:
-            # only load the types that are valid for this country
-            types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
-
-        if len(types) == 1:
-            # only 1 type, so select it
-            place_type = str(types[0])
-            self.request.session['place_type'] = place_type
-
-        context['types'] = types
-        context['place_type'] = place_type
 
         return context
 
