@@ -11,21 +11,16 @@
 
                  <ul class="nav navbar-nav navbar-left">
                      <li>
-                         <a class="nav-link" href="{% url 'places:welcome' %}">Welcome</a>
+                         <a class="nav-link" href="{% url 'places:about' %}" target="_blank">Welcome</a>
                      </li>
                      <li>
-                         <a class="nav-link" href="{% url 'places:map' %}" >Map</a>
+                         <a class="nav-link" href="{% url 'places:map' %}" target="_blank">Map</a>
                      </li>
-                     <li>
-                         <a class="nav-link" href="{% url 'places:list' %}" >List</a>
-                     </li>
-                     <!--
                      <li class="">
                          <td>
                              {% include 'search.html' %}
                          </td>
                      </li>
-                    -->
                  </ul>
 
                  <ul class="nav navbar-nav navbar-right">
@@ -35,7 +30,7 @@
                          {%  endif %}
                      </li>
                     <li>
-                         <a class="nav-link" href="{% url 'admin:index' %}" target="_blank">Login</a>
+                         <a class="nav-link" href="{% url 'admin:index' %}" target="_blank">Admin</a>
                      </li>
 
                 </ul>
