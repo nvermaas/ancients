@@ -8,7 +8,6 @@ from pykml import parser
 KML_NAMESPACE = {"kml": "http://earth.google.com/kml/2.0"}
 
 def search_records(country, search):
-
     # records selected by country and free form search string
 
     if not search:
@@ -56,7 +55,13 @@ def get_current_filter_values(request):
 
 def select_records(country, type):
     # records selected by selecting country and type from dropdown lists (so no free form)
-    places = Place.objects.filter(country=country,type__icontains=type)
+    if country == 'All':
+        places = Place.objects.filter(type__icontains=type)
+    else:
+        if type == 'All':
+            places = Place.objects.filter(country=country)
+        else:
+            places = Place.objects.filter(country=country,type__icontains=type)
     return places
 
 
@@ -168,6 +173,10 @@ def reload_data():
 
     # clear the ancients.sqlite3 database (scary)
     Place.objects.all().delete()
+
+    # add an 'all' record for the selection dropdown boxes
+    place = Place(type="All",country="All")
+    place.save()
 
     for kml_file in glob.glob(os.path.join(directory, "*.kml")):
         filename = os.path.basename(kml_file)
