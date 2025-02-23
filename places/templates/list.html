@@ -2,19 +2,29 @@
 {% load static %}
 
 {% block myBlock %}
+    {% include 'dropdown_filters_list.html' %}
 
-    <h4>Ancients</h4>
+    <div class="row">
 
-    <hr>
-    {% for place in object_list %}
-        <h5>{{ place.name }} - {{ place.region }} - {{ place.type }} </h5>
+    {% for place in places %}
+        <div class="col-sm-6 col-lg-6">
+            <div class="card" style="width: 90%;">
+                <hr>
+                <div class="card-body">
+                    <h4 class="card-title">
+                        {{ place.name }} - {{ place.region }} - {{ place.type }}
+                    </h4>
+                    <p class="card-text">
+                        {{ place.description|safe }}
+                    </p>
+                </div>
+            </div>
+        </div>
 
-        {{ place.description|safe }}
-
-        <hr>
     {% empty %}
         <li>No places available.</li>
     {% endfor %}
 
+    </div>
 
 {% endblock %}

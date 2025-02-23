@@ -1,0 +1,31 @@
+<div class="card">
+    <div class="card-body">
+        <form method="GET" action="{% url 'places:map' %}" id="filterForm">
+            <label for="country">Country:</label>
+            <select name="country" id="country" onchange="document.getElementById('filterForm').submit();">
+                <option value="">{{ country }}</option>
+                {% for country in countries %}
+                    <option value="{{ country }}">{{ country }}</option>
+                {% endfor %}
+            </select>
+
+            <label for="place_type"> Type:</label>
+            <select name="place_type" id="place_type" onchange="document.getElementById('filterForm').submit();">
+                <option value="">{{ place_type }}</option>
+                {% for type in types %}
+                    <option value="{{ type }}">{{ type }}</option>
+                {% endfor %}
+            </select>
+        </form>
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                var placeTypeSelect = document.getElementById("place_type");
+                if (placeTypeSelect.options.length === 2) {  // 1 actual option + 1 default empty option
+                    placeTypeSelect.selectedIndex = 1; // Select the only available option
+                    document.getElementById("filterForm_xxx").submit(); // Auto-submit the form
+                }
+            });
+        </script>
+    </div>
+</div>
