@@ -119,3 +119,11 @@ def set_view(request, place_id):
     """
     place = Place.objects.get(id=place_id)
     return redirect(f'/ancients?lon={place.longtitude}&lat={place.latitude}')
+
+def set_google_maps(request, place_id):
+    """
+    zoom to the place indicated with place_id, this function is used from the 'map' buttons on the list page
+    """
+    place = Place.objects.get(id=place_id)
+    url = f"https://www.google.com/maps/place//@{place.latitude},{place.longtitude},20z"
+    return redirect(url)

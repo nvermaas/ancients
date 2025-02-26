@@ -16,8 +16,9 @@
                     <option value="{{ type }}">{{ type }}</option>
                 {% endfor %}
             </select>
-
             Results: {{ places|length }}
+            {% include 'search.html' %}
+
         </form>
 
         <script>
