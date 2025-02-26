@@ -118,3 +118,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 DATA_ROOT = os.path.join(PROJECT_DIR, 'data')
+MAX_FEATURES = 1000

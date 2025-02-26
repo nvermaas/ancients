@@ -68,14 +68,14 @@ def select_records(country, type):
             places = Place.objects.filter(country=country)
         else:
             places = Place.objects.filter(country=country,type__icontains=type)
-    return places
+    return places.exclude(type="All")
 
 
 def create_features(places):
 
     features = []
 
-    for place in places:
+    for place in places[:settings.MAX_FEATURES]:
         # skip records with 0,0 coordinates (like 'all')
         if place.latitude != 0:
             try:
@@ -183,7 +183,10 @@ def reload_data():
     if not fake_it:
         Place.objects.all().delete()
 
-
+    # add an 'all' record for the selection dropdown boxes
+    place = Place(type="All", country="All", latitude=0, longtitude=0)
+    if not fake_it:
+        place.save()
 
     for kml_file in glob.glob(os.path.join(directory, "*.kml")):
         filename = os.path.basename(kml_file)
