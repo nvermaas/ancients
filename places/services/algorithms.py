@@ -7,18 +7,12 @@ from pykml import parser
 
 KML_NAMESPACE = {"kml": "http://earth.google.com/kml/2.0"}
 
-def search_records(country, search):
-    # records selected by country and free form search string
-
-    if not search:
-        return Place.objects.filter(country__icontains=country)
+def search_records(search):
 
     places = Place.objects.filter(
         Q(name__icontains=search) |
         Q(type__icontains=search) |
-        Q(region__icontains=search) |
-        Q(description__icontains=search),
-        country__icontains=country)
+        Q(region__icontains=search))
 
     return places
 
@@ -53,21 +47,26 @@ def get_current_filter_values(request):
         place_type = "Stone Circle"
 
     search = request.GET.get('ancients_search_box', None)
-    if not search:
-        search = place_type
 
     return country,place_type,search
 
 
-def select_records(country, type):
-    # records selected by selecting country and type from dropdown lists (so no free form)
-    if country == 'All':
-        places = Place.objects.filter(type__icontains=type)
+def select_records(country, type, search):
+
+    # if a specific search is given, then look for it. Otherwise use the dropdown values
+    if search:
+        places = search_records(search)
+
     else:
-        if type == 'All':
-            places = Place.objects.filter(country=country)
+        # records selected by selecting country and type from dropdown lists (so no free form)
+        if country == 'All':
+            places = Place.objects.filter(type__icontains=type)
         else:
-            places = Place.objects.filter(country=country,type__icontains=type)
+            if type == 'All':
+                places = Place.objects.filter(country=country)
+            else:
+                places = Place.objects.filter(country=country,type__icontains=type)
+
     return places.exclude(type="All")
 
 
