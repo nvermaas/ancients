@@ -7,7 +7,7 @@ from django.contrib.auth.decorators import login_required
 
 def fill_context_data(request, context, add_features=False):
     country, place_type, search = algorithms.get_current_filter_values(request)
-    places = algorithms.select_records(country, place_type)
+    places = algorithms.select_records(country, place_type, search)
     context['places'] = places
 
     # fill the type filter dropdown button (dropdown.html)
@@ -55,7 +55,7 @@ class ListView(ListView):
 
     def get_queryset(self):
         country, place_type, search = algorithms.get_current_filter_values(self.request)
-        return algorithms.select_records(country,place_type)
+        return algorithms.select_records(country,place_type,search)
 
     def get_context_data(self, **kwargs):
         """
@@ -77,7 +77,7 @@ class MapView(ListView):
 
     def get_queryset(self):
         country, place_type, search = algorithms.get_current_filter_values(self.request)
-        return algorithms.select_records(country,place_type)
+        return algorithms.select_records(country,place_type,search)
 
     def get_context_data(self, **kwargs):
         """
