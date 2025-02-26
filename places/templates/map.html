@@ -4,7 +4,7 @@
 {% block myBlock %}
     {% include 'dropdown_filters_map.html' %}
     {{ markers|json_script:"markers-data" }}
-
+    {{ coordinates|json_script:"coordinates-data" }}
     <div id="map"></div>
 
     <script src="{% static 'map.js' %}"></script>

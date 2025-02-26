@@ -8,12 +8,17 @@ const layer = L.tileLayer(url, {
 const map = L.map("map", {
   layers: [layer]
 });
-// map.fitWorld();
 
 
 const markers = JSON.parse(
   document.getElementById(
     "markers-data"
+  ).textContent
+);
+
+const coordinates = JSON.parse(
+  document.getElementById(
+    "coordinates-data"
   ).textContent
 );
 
@@ -38,9 +43,14 @@ L.geoJSON(markers, {
 
 
 
-
 // Fit the map to the markers' bounds
 const bounds = feature.getBounds();
 if (bounds.isValid()) {
   map.fitBounds(bounds, { padding: [10, 10] });
+
+}
+
+// if 'coordinate-data' is passed to the 'context' of the MapView then use them to set the map view
+if (coordinates) {
+  map.setView(new L.LatLng(coordinates['latitude'], coordinates['longtitude']), 15);
 }
