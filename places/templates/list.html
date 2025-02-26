@@ -17,6 +17,8 @@
                     <p class="card-text">
                         {{ place.description|safe }}
                     </p>
+                    <a href="{% url 'places:set-view' place.pk %}" class="btn btn-primary btn-md" role="button"><i class="fas fa-globe"></i> Map</a>
+
                 </div>
             </div>
         </div>

@@ -46,7 +46,8 @@ def fill_context_data(request, context, add_features=False):
             },
             "features": features
         }
-
+        #context["coordinates"] = { "latitude": 52, "longtitude": 6}
+        #context["coordinates"] = None
     return context
 
 class ListView(ListView):
@@ -68,7 +69,7 @@ class ListView(ListView):
         )
 
         context = fill_context_data(self.request,context)
-
+        #context["coordinates"] = { "latitude": 52, "longtitude": 6}
         return context
 
 class MapView(ListView):
@@ -90,6 +91,10 @@ class MapView(ListView):
         )
 
         context = fill_context_data(self.request, context, add_features=True)
+        lon = self.request.GET.get("lon")
+        lat = self.request.GET.get("lat")
+        if lon and lat:
+            context["coordinates"] = { "latitude": lat, "longtitude": lon}
 
         return context
 
@@ -107,3 +112,10 @@ def reload_data(request):
     """
     algorithms.reload_data()
     return redirect('/ancients')
+
+def set_view(request, place_id):
+    """
+    zoom to the place indicated with place_id, this function is used from the 'map' buttons on the list page
+    """
+    place = Place.objects.get(id=place_id)
+    return redirect(f'/ancients?lon={place.longtitude}&lat={place.latitude}')
