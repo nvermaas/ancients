@@ -18,7 +18,7 @@
                         {{ place.description|safe }}
                     </p>
                     <a href="{% url 'places:set-view' place.pk %}" class="btn btn-primary btn-md" role="button"><i class="fas fa-globe"></i> Map</a>
-
+                    <a href="{% url 'places:set-google-maps' place.pk %}" target="_blank" class="btn btn-primary btn-md" role="button"><i class="fas fa-globe"></i> Google Maps</a>
                 </div>
             </div>
         </div>
