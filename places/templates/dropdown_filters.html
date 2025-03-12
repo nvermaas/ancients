@@ -1,0 +1,35 @@
+<label for="country">Country:</label>
+<select name="country" id="country" onchange="document.getElementById('filterForm').submit();">
+    <option value="">{{ country }}</option>
+    {% for country in countries %}
+        <option value="{{ country }}">{{ country }}</option>
+    {% endfor %}
+</select>
+
+&nbsp;
+
+<label for="combined_type"> Combined Type:</label>
+<select name="combined_type" id="combined_type" onchange="document.getElementById('filterForm').submit();">
+    <option value="">{{ combined_type }}</option>
+    {% for combined_type in combined_types %}
+        <option value="{{ combined_type }}">{{ combined_type }}</option>
+    {% endfor %}
+</select>
+
+&nbsp;
+
+<label for="place_type"> Detailed Type:</label>
+<select name="place_type" id="place_type" onchange="document.getElementById('filterForm').submit();">
+    <option value="">{{ place_type }}</option>
+    {% for type in types %}
+        <option value="{{ type }}">{{ type }}</option>
+    {% endfor %}
+</select>
+
+&nbsp;
+
+Results: {{ places|length }}
+
+&nbsp;
+
+{% include 'search.html' %}
