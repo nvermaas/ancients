@@ -8,6 +8,8 @@ from django.contrib.auth.decorators import login_required
 def fill_context_data(request, context, add_features=False):
     country, place_type, search = algorithms.get_current_filter_values(request)
     places = algorithms.select_records(country, place_type, search)
+    combined_types = list(algorithms.COMBINATIONS.keys())
+
     context['places'] = places
 
     # fill the type filter dropdown button (dropdown.html)
@@ -28,6 +30,7 @@ def fill_context_data(request, context, add_features=False):
 
     context['types'] = types
     context['place_type'] = place_type
+    context['combined_types'] = combined_types
 
     # add features for the map
     if add_features:
@@ -46,8 +49,7 @@ def fill_context_data(request, context, add_features=False):
             },
             "features": features
         }
-        #context["coordinates"] = { "latitude": 52, "longtitude": 6}
-        #context["coordinates"] = None
+
     return context
 
 class ListView(ListView):

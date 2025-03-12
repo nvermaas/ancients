@@ -7,6 +7,19 @@ from pykml import parser
 
 KML_NAMESPACE = {"kml": "http://earth.google.com/kml/2.0"}
 
+CIRCLES = ["Circle"]
+STONES = ["Marker Stone","Early Christian Sculptured Stone","Standing Stone","Polissoir"]
+GRAVES = ["Barrow","Tomb","Grave","Cist"]
+NATURAL = ["Natural"]
+
+
+COMBINATIONS = {
+    "Stones" : STONES,
+    "Circles": CIRCLES,
+    "Graves" : GRAVES,
+    "Natural features" : NATURAL
+}
+
 def search_records(search):
 
     places = Place.objects.filter(
