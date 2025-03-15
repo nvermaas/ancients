@@ -238,7 +238,6 @@ def convert_kml(kml_filename,country):
 
 def reload_data():
     # look for kml files in the data directory
-    # note: to shrink the database by reclaiming removed records, use the sql 'vacuum' command
     fake_it = False
 
     directory = settings.DATA_ROOT
