@@ -4,3 +4,4 @@
 *.sqlite3
 /.idea/
 /.idea
+ancients/ancients.sqlite3
