@@ -7,50 +7,18 @@ from pykml import parser
 
 KML_NAMESPACE = {"kml": "http://earth.google.com/kml/2.0"}
 
-CIRCLES = ["Circle","Henge"]
-STONES = ["Stone","Polissoir","Alignement","Cairn"]
-GRAVES = ["Barrow","Tomb","Grave","Cist","Dolmen","Burial"]
-HILLS = ["Mound","Hill","Cursus","Pyramid"]
-NATURAL = ["Natural","Rock Outcrop"]
-VILLAGES = ["Village","Settlement","Town","Crannog","Broch"]
-CAVES = ["Cave","Rock Shelter"]
-CROSSES = ["Cross"]
-SPRINGS = ["Well","Spring"]
-MUSEUMS = ["Museum"]
-FORTS = ["Fort","Castro"]
-INDUSTRY = ["Mine","Quarry"]
-TEMPLES = ["Temple","Palace"]
-TRACKS = ["Track","Causeway"]
-ART = ["Carving","Art"]
-MAZES = ['Maze']
-UNKNOWN = ['Unknown',"Not Known"]
+CIRCLES = ["Circle"]
+STONES = ["Marker Stone","Early Christian Sculptured Stone","Standing Stone","Polissoir"]
+GRAVES = ["Barrow","Tomb","Grave","Cist"]
+NATURAL = ["Natural"]
+
 
 COMBINATIONS = {
-    "Art": ART,
-    "Caves": CAVES,
-    "Circles"   : CIRCLES,
-    "Crosses": CROSSES,
-    "Graves"    : GRAVES,
-    "Forts": FORTS,
-    "Hills": HILLS,
-    "Industry": INDUSTRY,
-    "Mazes": MAZES,
-    "Museums": MUSEUMS,
-    "Natural features" : NATURAL,
-    "Springs"   : SPRINGS,
-    "Stones"    : STONES,
-    "Temples"   : TEMPLES,
-    "Tracks"    : TRACKS,
-    "Villages":   VILLAGES,
-    "Unknown"   : UNKNOWN
+    "Stones" : STONES,
+    "Circles": CIRCLES,
+    "Graves" : GRAVES,
+    "Natural features" : NATURAL
 }
-
-def get_category(type_value):
-    for category, items in COMBINATIONS.items():
-        if any(item.upper() in type_value.upper() for item in items):
-            return category
-
-    return "Other"
 
 def search_records(search):
 
@@ -78,22 +46,6 @@ def get_current_filter_values(request):
     if not country:
         country = "Netherlands"
 
-
-    category = request.GET.get('category', None)
-    if category:
-        request.session['category'] = category
-    else:
-        try:
-            category = request.session['category']
-        except:
-            category = "Stones"
-            request.session['category'] = category
-
-    # if all else fails
-    if not category:
-        category = "Stones"
-
-
     place_type = request.GET.get('place_type', None)
     if place_type:
         request.session['place_type'] = place_type
@@ -109,10 +61,10 @@ def get_current_filter_values(request):
 
     search = request.GET.get('ancients_search_box', None)
 
-    return country,category,place_type,search
+    return country,place_type,search
 
 
-def select_records(country, category, type, search):
+def select_records(country, type, search):
 
     # if a specific search is given, then look for it. Otherwise use the dropdown values
     if search:
@@ -125,11 +77,8 @@ def select_records(country, category, type, search):
         else:
             if type == 'All':
                 places = Place.objects.filter(country=country)
-                places = Place.objects.filter(country=country, category__icontains=category)
             else:
                 places = Place.objects.filter(country=country,type__icontains=type)
-                # places = Place.objects.filter(country=country, category__icontains=category)
-
 
     return places.exclude(type="All")
 
@@ -228,10 +177,9 @@ def convert_kml(kml_filename,country):
 
             # retrieve type from description
             type = read_from_description('<b>Type:</b>',description)
-            category = get_category(type)
             region = read_from_description('<b>County/Region:</b>',description)
             country = country
-            rec = (name, category, type, region, country, latitude, longtitude, description)
+            rec = (name, type, region, country, latitude, longtitude, description)
             records.append(rec)
 
         return records
@@ -248,7 +196,7 @@ def reload_data():
         Place.objects.all().delete()
 
     # add an 'all' record for the selection dropdown boxes
-    place = Place(type="All", category="All", country="All", latitude=0, longtitude=0)
+    place = Place(type="All", country="All", latitude=0, longtitude=0)
     if not fake_it:
         place.save()
 
@@ -265,7 +213,7 @@ def reload_data():
             print(f'{filename} => {country}: {len(records)}... adding to database')
 
             # add an 'all' record for the selection dropdown boxes
-            place = Place(type="All", category="All", country=country, latitude=0, longtitude=0)
+            place = Place(type="All", country=country, latitude=0, longtitude=0)
             if not fake_it:
                 place.save()
 
@@ -273,13 +221,12 @@ def reload_data():
             for record in records:
                 place = Place(
                     name=record[0],
-                    category=record[1],
-                    type=record[2],
-                    region=record[3],
-                    country=record[4],
-                    latitude=record[5],
-                    longtitude=record[6],
-                    description=record[7],
+                    type=record[1],
+                    region=record[2],
+                    country=record[3],
+                    latitude=record[4],
+                    longtitude=record[5],
+                    description=record[6],
                 )
                 if not fake_it:
                     place.save()

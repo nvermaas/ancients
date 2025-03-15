@@ -6,9 +6,9 @@ from places.services import algorithms
 from django.contrib.auth.decorators import login_required
 
 def fill_context_data(request, context, add_features=False):
-    country, category, place_type, search = algorithms.get_current_filter_values(request)
-    places = algorithms.select_records(country, category, place_type, search)
-    #categories = list(algorithms.COMBINATIONS.keys())
+    country, place_type, search = algorithms.get_current_filter_values(request)
+    places = algorithms.select_records(country, place_type, search)
+    combined_types = list(algorithms.COMBINATIONS.keys())
 
     context['places'] = places
 
@@ -19,11 +19,9 @@ def fill_context_data(request, context, add_features=False):
 
     if country == 'All':
         types = Place.objects.values_list('type', flat=True).distinct()
-        categories = Place.objects.values_list('category', flat=True).distinct()
     else:
         # only load the types that are valid for this country
         types = Place.objects.filter(country=country).values_list('type', flat=True).distinct()
-        categories = Place.objects.filter(country=country).values_list('category', flat=True).distinct()
 
     if len(types) == 1:
         # only 1 type, so select it
@@ -32,8 +30,7 @@ def fill_context_data(request, context, add_features=False):
 
     context['types'] = types
     context['place_type'] = place_type
-    context['categories'] = categories
-    context['category'] = category
+    context['combined_types'] = combined_types
 
     # add features for the map
     if add_features:
@@ -60,8 +57,8 @@ class ListView(ListView):
     template_name = "list.html"
 
     def get_queryset(self):
-        country, category, place_type, search= algorithms.get_current_filter_values(self.request)
-        return algorithms.select_records(country,category, place_type,search)
+        country, place_type, search = algorithms.get_current_filter_values(self.request)
+        return algorithms.select_records(country,place_type,search)
 
     def get_context_data(self, **kwargs):
         """
@@ -82,8 +79,8 @@ class MapView(ListView):
     template_name = "map.html"
 
     def get_queryset(self):
-        country, category, place_type, search = algorithms.get_current_filter_values(self.request)
-        return algorithms.select_records(country,category,place_type,search)
+        country, place_type, search = algorithms.get_current_filter_values(self.request)
+        return algorithms.select_records(country,place_type,search)
 
     def get_context_data(self, **kwargs):
         """

@@ -5,7 +5,7 @@ from . import views
 app_name = "places"
 
 urlpatterns = [
-    path("", views.welcome, name='index'),
+    path("", views.MapView.as_view(), name='index'),
     path("list", views.ListView.as_view(),name='list'),
     path("map", views.MapView.as_view(),name='map'),
     path("welcome", views.welcome, name='welcome'),
