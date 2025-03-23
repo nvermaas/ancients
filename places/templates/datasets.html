@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block myBlock %}
+    <div class="container-fluid">
+
+        <div class="row">
+            <table>
+            {% for dataset in datasets %}
+                <tr>
+                    <td>{{ dataset.name }} </td>
+                    <td>&nbsp;: {{ dataset.url }} </td>
+                </tr>
+            {% empty %}
+                <li>No datasets available.</li>
+            {% endfor %}
+            </table>
+        </div>
+    </div>
+{% endblock %}

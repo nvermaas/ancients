@@ -1,6 +1,15 @@
 from django.db import models
 from django.utils import timezone
 
+class Dataset(models.Model):
+    name = models.CharField(max_length=30)
+    country = models.CharField(db_index=True, max_length=30)
+    url = models.CharField(max_length=100, blank=True, null=True)
+
+    def __str__(self):
+        return f'{self.name}'
+
+
 class Place(models.Model):
     name = models.CharField(max_length=30)
     type = models.CharField(db_index=True,max_length=100, blank=True, null=True)

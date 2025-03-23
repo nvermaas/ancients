@@ -1,4 +1,4 @@
-from .models import Place
+from .models import Place, Dataset
 
 from django.shortcuts import render, redirect
 from django.views.generic import ListView, TemplateView
@@ -109,6 +109,23 @@ def welcome(request):
     """
     return render(request,'welcome.html')
 
+class DatasetsView(ListView):
+    model = Dataset
+    template_name = "datasets.html"
+    queryset = Dataset.objects.all()
+
+    def get_context_data(self, **kwargs):
+        """
+        add data to the 'context' that can be read by the html templates
+        """
+        context = (
+            super().get_context_data(
+                **kwargs
+            )
+        )
+
+        context["datasets"] = self.queryset
+        return context
 
 @login_required
 def reload_data(request):

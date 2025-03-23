@@ -7,6 +7,7 @@ app_name = "places"
 urlpatterns = [
     path("", views.welcome, name='index'),
     path("list", views.ListView.as_view(),name='list'),
+    path("datasets", views.DatasetsView.as_view(), name='datasets'),
     path("map", views.MapView.as_view(),name='map'),
     path("welcome", views.welcome, name='welcome'),
     path("reload_data", views.reload_data,name='reload-data'),
