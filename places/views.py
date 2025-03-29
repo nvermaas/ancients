@@ -4,6 +4,8 @@ from django.shortcuts import render, redirect
 from django.views.generic import ListView, TemplateView
 from places.services import algorithms
 from django.contrib.auth.decorators import login_required
+from django.http import JsonResponse
+
 
 def fill_context_data(request, context, add_features=False):
     country, category, place_type, search = algorithms.get_current_filter_values(request)
@@ -55,7 +57,7 @@ def fill_context_data(request, context, add_features=False):
 
     return context
 
-class ListView(ListView):
+class RecordView(ListView):
     model = Place
     template_name = "list.html"
 
@@ -112,7 +114,11 @@ def welcome(request):
 class DatasetsView(ListView):
     model = Dataset
     template_name = "datasets.html"
-    queryset = Dataset.objects.all()
+    #queryset = Dataset.objects.all()
+
+    def get_queryset(self):
+        """Ensure the latest data is always fetched"""
+        return Dataset.objects.all().order_by("country")  # Fetch fresh data
 
     def get_context_data(self, **kwargs):
         """
@@ -124,7 +130,7 @@ class DatasetsView(ListView):
             )
         )
 
-        context["datasets"] = self.queryset
+        context["datasets"] = self.get_queryset()
         return context
 
 @login_required
@@ -134,6 +140,16 @@ def reload_data(request):
     """
     algorithms.reload_data()
     return redirect('/ancients')
+
+@login_required
+def update_dataset(request):
+    country = request.GET.get('country', 'Unknown')
+
+    algorithms.update_dataset(country)
+
+    return redirect('/ancients/datasets')
+    return redirect(reverse('places:dataset_list'))
+
 
 def set_view(request, place_id):
     """

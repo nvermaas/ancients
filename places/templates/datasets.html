@@ -5,16 +5,20 @@
     <div class="container-fluid">
 
         <div class="row">
-            <table>
+
             {% for dataset in datasets %}
-                <tr>
-                    <td>{{ dataset.name }} </td>
-                    <td>&nbsp;: {{ dataset.url }} </td>
-                </tr>
+                <div class="row">
+                    <div class="col-lg-2"><b>{{ dataset.country }}</b></div>
+                    <div class="col-lg-2">{{ dataset.count }} records</div>
+                    <div class="col-lg-2">{{ dataset.timestamp }}</div>
+                    <div class="col-lg-6">
+                        <a href="{% url 'places:update-dataset' %}?country={{ dataset.country|urlencode }}" class="btn btn-primary btn-md" role="button"><i class="fas fa-refresh"></i> Update</a>
+                    </div>
+                </div>
             {% empty %}
                 <li>No datasets available.</li>
             {% endfor %}
-            </table>
+
         </div>
     </div>
 {% endblock %}

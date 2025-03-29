@@ -3,3 +3,4 @@ gunicorn==19.9.0
 whitenoise==5.0.1
 geocoder==1.38.1
 pykml==0.2.0
+requests

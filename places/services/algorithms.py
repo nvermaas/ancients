@@ -1,7 +1,10 @@
 import os,glob
+
+import requests
 from django.conf import settings
 from django.db.models import Q
-from ..models import Place
+from django.utils import timezone
+from ..models import Place, Dataset
 from django.conf import settings
 from pykml import parser
 
@@ -207,7 +210,8 @@ def read_from_description(separator,description):
     except:
         return ""
 
-def convert_kml(kml_filename,country):
+
+def convert_kml_file(kml_filename, country):
     """
     convert a placemark to a json record
     """
@@ -236,6 +240,69 @@ def convert_kml(kml_filename,country):
 
         return records
 
+def update_dataset(country):
+    # load the kml and parse it
+
+    dataset = Dataset.objects.get(country=country)
+    directory = settings.DATA_ROOT
+
+    # mimic a browser request:
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+    }
+
+    # construct the url
+    if dataset.url:
+        url = dataset.url
+    else:
+        url = f"https://www.megalithic.co.uk/asb_kml.php?category=0&country={dataset.country_nr}&sitetype=0&kmltitle={dataset.country}"
+
+    if dataset.filename:
+        filename = dataset.filename
+    else:
+        filename = f"MegP_{dataset.country}.kml"
+
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+
+        file_path = os.path.join(directory,filename)
+        # Write content to a .kml file
+        with open(file_path, "wb") as file:
+            file.write(response.content)
+
+        # convert the kml file to a list of records
+        records = convert_kml_file(file_path, country)
+        count = len(records)
+        print(f'{country}: {count}... adding to database')
+
+        if count > 0:
+            # delete the existing records
+            Place.objects.filter(country=country).delete()
+
+            # add an 'all' record for the selection dropdown boxes
+            place = Place(type="All", category="All", country=country, latitude=0, longtitude=0)
+            place.save()
+
+            # add the records to the sqlite3 database
+            for record in records:
+                place = Place(
+                    name=record[0],
+                    category=record[1],
+                    type=record[2],
+                    region=record[3],
+                    country=record[4],
+                    latitude=record[5],
+                    longtitude=record[6],
+                    description=record[7],
+                )
+                place.save()
+
+            # update dataset record
+            dataset.timestamp = timezone.now()
+            dataset.count = count
+            dataset.save()
+
+
 def reload_data():
     # look for kml files in the data directory
     # note: to shrink the database by reclaiming removed records, use the sql 'vacuum' command
@@ -262,7 +329,7 @@ def reload_data():
             country = ".".join(filename.split("_", 1)[1].split(".")[:-1])
 
             # convert the kml file to a list of records
-            records = convert_kml(kml_file,country)
+            records = convert_kml_file(kml_file, country)
             print(f'{filename} => {country}: {len(records)}... adding to database')
 
             # add an 'all' record for the selection dropdown boxes
