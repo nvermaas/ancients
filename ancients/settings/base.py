@@ -19,7 +19,10 @@ SECRET_KEY = 'django-insecure-m$(%@hdu-rv&6c6+q)pnex_vpss@@y!nfy$15%jy1z(d38k+i&
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-
+CSRF_TRUSTED_ORIGINS = [
+    "http://localhost:8000",
+    "https://uilennest.net",
+]
 
 # Application definition
 
