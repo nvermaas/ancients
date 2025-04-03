@@ -7,15 +7,17 @@
         <div class="row">
 
             {% for dataset in datasets %}
-                <div class="row">
+                <div class="row" >
+                    <div class="col-lg-1"></div>
                     <div class="col-lg-2"><b>{{ dataset.country }}</b></div>
                     <div class="col-lg-2">{{ dataset.count }} records</div>
                     <div class="col-lg-2">{{ dataset.timestamp }}</div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-5">
                         {% if user.is_superuser %}
-                            <a href="{% url 'places:update-dataset' %}?country={{ dataset.country|urlencode }}" class="btn btn-primary btn-md" role="button"><i class="fas fa-refresh"></i> Update</a>
+                            <a href="{% url 'places:update-dataset' %}?country={{ dataset.country|urlencode }}" class="btn btn-primary btn-sm" role="button"><i class="fas fa-refresh"></i> Update</a>
                         {%  endif %}
                     </div>
+
                 </div>
             {% empty %}
                 <li>No datasets available.</li>

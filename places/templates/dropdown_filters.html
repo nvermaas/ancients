@@ -1,3 +1,5 @@
+
+<div class="container-fluid">
 <label for="country">Country:</label>
 <select name="country" id="country" onchange="document.getElementById('filterForm').submit();">
     <option value="">{{ country }}</option>
@@ -8,7 +10,7 @@
 
 &nbsp;
 
-<label for="category"> Category:</label>
+<label for="category"> Global Type:</label>
 <select name="category" id="category" onchange="document.getElementById('filterForm').submit();">
     <option value="">{{ category }}</option>
     {% for category in categories %}
@@ -26,10 +28,9 @@
     {% endfor %}
 </select>
 
-&nbsp;
+&nbsp
 
 Results: {{ places|length }}
 
-&nbsp;
-
 {% include 'search.html' %}
+</div>
