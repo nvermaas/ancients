@@ -54,3 +54,30 @@ if (bounds.isValid()) {
 if (coordinates) {
   map.setView(new L.LatLng(coordinates['latitude'], coordinates['longtitude']), 15);
 }
+
+// Function to locate user
+function locateUser() {
+    if ("geolocation" in navigator) {
+        navigator.geolocation.getCurrentPosition(
+            function (position) {
+                var lat = position.coords.latitude;
+                var lon = position.coords.longitude;
+
+                // Set map view
+                map.setView([lat, lon], 14);
+
+                // Add marker
+                L.marker([lat, lon]).addTo(map)
+                    .bindPopup("You are here").openPopup();
+            },
+            function (error) {
+                alert("Geolocation failed: " + error.message);
+            }
+        );
+    } else {
+        alert("Geolocation is not supported by your browser.");
+    }
+}
+
+// Attach event listener to button
+document.getElementById("locate-btn").addEventListener("click", locateUser);
